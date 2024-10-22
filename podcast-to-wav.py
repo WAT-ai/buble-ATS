@@ -10,7 +10,7 @@ from io import BytesIO
 
 
 # Credentials
-API_KEY = "TO ADD HERE" # NOTE: DELETE THIS BEFORE YOU GIT PUSH
+API_KEY = "ENTER HERE" # DELETE THIS BEFORE YOU GIT PUSH
 SPREADSHEET_ID = "1cP0T3PX1FKajqqTcIJMipeqebLmQZ8aLtQ7BXoFXWz4"
 SHEET_NAME = "Working Stations"
 CELLS = "B:C"
@@ -54,12 +54,16 @@ def download_and_convert_to_wav(url, output_filename):
 
             # Read the response in chunks and write to BytesIO
             # CURRENT LIMITER HERE
-            iterations = 100
-            i = 0
-            for chunk in response.iter_content(chunk_size=1024):
+            total_downloaded = 0
+            max_size_mb = 5
+            for chunk in response.iter_content(chunk_size=8192):
                 audio_data.write(chunk)
-                i += 1
-                if i > iterations:
+                total_downloaded += len(chunk)
+                print(total_downloaded)
+
+                # Check if we've exceeded the max size limit
+                if total_downloaded > max_size_mb * 1024 * 30:  # Convert MB to bytes
+                    print(f"Reached maximum size limit of {max_size_mb} MB for {url}.")
                     break
 
             audio_data.seek(0)
