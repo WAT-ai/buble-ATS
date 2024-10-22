@@ -10,7 +10,7 @@ from io import BytesIO
 
 
 # Credentials
-API_KEY = "AIzaSyCUe0tUkhJJ9Nw1WFmlKVsnnuISbRT7Zpw" # NOTE: DELETE THIS BEFORE YOU GIT PUSH
+API_KEY = "TO ADD HERE" # NOTE: DELETE THIS BEFORE YOU GIT PUSH
 SPREADSHEET_ID = "1cP0T3PX1FKajqqTcIJMipeqebLmQZ8aLtQ7BXoFXWz4"
 SHEET_NAME = "Working Stations"
 CELLS = "B:C"
@@ -53,7 +53,7 @@ def download_and_convert_to_wav(url, output_filename):
             audio_data = BytesIO()
 
             # Read the response in chunks and write to BytesIO
-            # CURRENT LIMITER: SHOULD MAKE MORE STANDARDIZED
+            # CURRENT LIMITER HERE
             iterations = 100
             i = 0
             for chunk in response.iter_content(chunk_size=1024):
