@@ -10,7 +10,7 @@ from io import BytesIO
 
 
 # Credentials
-API_KEY = "ENTER HERE" # DELETE THIS BEFORE YOU GIT PUSH
+API_KEY = "AIzaSyCUe0tUkhJJ9Nw1WFmlKVsnnuISbRT7Zpw" # DELETE THIS BEFORE YOU GIT PUSH
 SPREADSHEET_ID = "1cP0T3PX1FKajqqTcIJMipeqebLmQZ8aLtQ7BXoFXWz4"
 SHEET_NAME = "Working Stations"
 CELLS = "B:C"
@@ -68,6 +68,8 @@ def download_and_convert_to_wav(url, output_filename):
 
             audio_data.seek(0)
             audio = AudioSegment.from_file(audio_data)
+            audio = audio.set_frame_rate(44100)  # Set sample rate to 44.1kHz
+            audio = audio.set_channels(1) # Set sample to mono
             
             print(audio)
             # Export as WAV
