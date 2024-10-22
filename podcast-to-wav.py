@@ -1,4 +1,8 @@
 # Script to convert a list of podcast links into wav files
+# Usage:
+# 1) replace API key
+# 2) run this file
+# 3) (Optional) edit other credentials for different functionality
 
 # Had to make a virtual environment for dependencies:
 # python3 -m venv path/to/venv
