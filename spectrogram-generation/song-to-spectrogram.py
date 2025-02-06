@@ -1,12 +1,6 @@
-# TO DO:
-# 1) Go through salami yt pairings' yt IDs
-# 2) Keep list of valid YT links
-# 3) Append the corresponding metadata to each valid salami yt pair
-# 4) Download mp3s for all valid YT videos
-# 5) Create spectrograms from remaining ones
-
-# For now:
-# Get one spectrogram going
+# TO DO NEXT:
+# Download mp3s for valid YT videos
+# Create spectrograms from remaining ones (potentially without downloads?)
 
 # import librosa
 # import librosa.display
@@ -53,5 +47,3 @@ if is_valid:
     valid_songs[int(SALAMI_ID)] = [YT_ID, SONG_TITLE]
 print(valid_songs)
 
-# TO DO NEXT
-# - 
