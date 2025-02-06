@@ -54,61 +54,47 @@ print(valid_songs)
 
 
 # ----------------------------------------------------------------
-# MAKING SPECTROGRAMS FROM VALID SONGS
+# DOWNLOAD MP3 AND CREATE SPECTROGRAM
 
-def download_audio(youtube_url, download_dir='./spectrogram-generation/audio-data'):
-    # Create download directory if it doesn't exist
-    if not os.path.exists(download_dir):
-        os.makedirs(download_dir)
-
-    # Set yt-dlp options
+def download_mp3(youtube_url, output_dir='./spectrogram-generation/audio-data'):
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    
     ydl_opts = {
         'format': 'bestaudio/best',
-        'quiet': True,
-        'noplaylist': True,
-        'extractaudio': True,
-        'audioquality': 0,  # highest quality
         'postprocessors': [{
             'key': 'FFmpegExtractAudio',
-            'preferredcodec': 'mp3'
+            'preferredcodec': 'mp3',
+            'preferredquality': '192',
         }],
-        'outtmpl': os.path.join(download_dir, '%(title)s.%(ext)s')  # Output path format
+        'outtmpl': os.path.join(output_dir, '%(title)s.%(ext)s'),
     }
-
-    # Download the audio (in MP3 format)
+    
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        ydl.download([youtube_url])
-    
-    # Return the downloaded MP3 file path
-    info_dict = ydl.extract_info(youtube_url, download=True)
-    mp3_file = os.path.join(download_dir, f"{info_dict['title']}.mp3")
-    
-    return mp3_file
+        info_dict = ydl.extract_info(youtube_url, download=True)
+        return ydl.prepare_filename(info_dict).replace('.webm', '.mp3').replace('.m4a', '.mp3')
 
-def create_spectrogram(mp3_file):
-    # Load audio using librosa
-    y, sr = librosa.load(mp3_file, sr=None)  # y = audio signal, sr = sample rate
+def create_spectrogram(audio_path, output_dir='./spectrogram-generation/spectrograms'):
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
     
-    # Generate Mel spectrogram
-    S = librosa.feature.melspectrogram(y=y, sr=sr, n_mels=128)
-    S_dB = librosa.power_to_db(S, ref=np.max)
-
-    # Plot the Mel spectrogram
+    y, sr = librosa.load(audio_path)
     plt.figure(figsize=(10, 4))
-    librosa.display.specshow(S_dB, sr=sr, x_axis='time', y_axis='mel')
+    D = librosa.amplitude_to_db(np.abs(librosa.stft(y)), ref=np.max)
+    librosa.display.specshow(D, sr=sr, x_axis='time', y_axis='log')
     plt.colorbar(format='%+2.0f dB')
-    plt.title('Mel Spectrogram')
-    plt.xlabel("Time (s)")
-    plt.ylabel("Frequency (Hz)")
-    plt.show()
+    plt.title('Spectrogram')
+    
+    spectrogram_path = os.path.join(output_dir, os.path.basename(audio_path).replace('.mp3', '.png'))
+    plt.savefig(spectrogram_path)
+    plt.close()
+    return spectrogram_path
 
-# Main function to download audio and create spectrogram
-def process_youtube_audio(youtube_url):
-    print("Downloading audio...")
-    mp3_file = download_audio(youtube_url)
 
-    print(f"Audio downloaded: {mp3_file}")
-    print("Generating spectrogram...")
-    create_spectrogram(mp3_file)
+# Download MP3
+mp3_path = download_mp3(youtube_link)
+print(f"Downloaded MP3 to {mp3_path}")
 
-process_youtube_audio(youtube_link)
+# Create Spectrogram
+spectrogram_path = create_spectrogram(mp3_path)
+print(f"Created spectrogram at {spectrogram_path}")
