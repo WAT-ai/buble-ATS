@@ -9,6 +9,11 @@ import matplotlib.pyplot as plt
 
 valid_songs = {} # Valid Song: salami id to [yt link, and song title]
 
+# Confirms that a YT link is valid
+def try_site(url):
+    request = requests.get(url)
+    return request.status_code == 200 and "Video unavailable" not in request.text
+
 # ----------------------------------------------------------------
 # MERGE TABLES
 
@@ -28,23 +33,21 @@ final_data = final_data.rename(columns={'salami_id': 'SALAMI_ID', 'youtube_id': 
 # ----------------------------------------------------------------
 # VALIDATING LINKS
 
-# Grab current row info
-cur_row = final_data.loc[final_data["SALAMI_ID"] == 3, ["SALAMI_ID", "YT_ID", "SONG_TITLE"]]
-salami_id = cur_row.iloc[0]["SALAMI_ID"]
-youtube_id = cur_row.iloc[0]["YT_ID"]
-song_title = cur_row.iloc[0]["SONG_TITLE"]
+for index, cur_row in final_data.iterrows():
+    salami_id = cur_row["SALAMI_ID"]
+    youtube_id = cur_row["YT_ID"]
+    song_title = cur_row["SONG_TITLE"]
+    
+    # Confirm the current row link is valid
+    youtube_link = "https://youtu.be/" + youtube_id
+    is_valid = try_site(youtube_link)
+    print(f"Validity of {song_title}: {is_valid}")
 
-# Confirm that YT video is valid
-def try_site(url):
-    request = requests.get(url)
-    return request.status_code == 200
-youtube_link = "https://youtu.be/" + youtube_id
-is_valid = try_site(youtube_link)
-print(f"The song link for {song_title} is valid: {is_valid}")
+    # Add to List of Valid Songs
+    if is_valid:
+        valid_songs[int(salami_id)] = [youtube_link, song_title]
 
-# Add to List of Valid Songs
-if is_valid:
-    valid_songs[int(salami_id)] = [youtube_link, song_title]
+# Print total valid songs
 print(valid_songs)
 
 
@@ -86,10 +89,11 @@ def create_spectrogram(audio_path, output_dir='./spectrogram-generation/spectrog
     return spectrogram_path
 
 
-# Download MP3
-mp3_path = download_mp3(youtube_link)
-print(f"Downloaded MP3 to {mp3_path}")
+# for key, value in valid_songs.items():
+#     # Download MP3
+#     mp3_path = download_mp3(youtube_link)
+#     print(f"Downloaded MP3 to {mp3_path}")
 
-# Create Spectrogram
-spectrogram_path = create_spectrogram(mp3_path)
-print(f"Created spectrogram at {spectrogram_path}")
+# # # Create Spectrogram
+# spectrogram_path = create_spectrogram(mp3_path)
+# print(f"Created spectrogram at {spectrogram_path}")
