@@ -88,12 +88,13 @@ def create_spectrogram(audio_path, output_dir='./spectrogram-generation/spectrog
     plt.close()
     return spectrogram_path
 
+for key, value in valid_songs.items():
+    # Download MP3
+    youtube_link = value[0]
+    song_title = value[1]
+    mp3_path = download_mp3(youtube_link)
+    print(f"Downloaded {song_title} MP3 to {mp3_path}")
 
-# for key, value in valid_songs.items():
-#     # Download MP3
-#     mp3_path = download_mp3(youtube_link)
-#     print(f"Downloaded MP3 to {mp3_path}")
-
-# # # Create Spectrogram
-# spectrogram_path = create_spectrogram(mp3_path)
-# print(f"Created spectrogram at {spectrogram_path}")
+    # Create Spectrogram
+    spectrogram_path = create_spectrogram(mp3_path)
+    print(f"Created {song_title} spectrogram at {spectrogram_path}")
