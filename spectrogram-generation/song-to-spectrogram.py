@@ -1,7 +1,3 @@
-# TO DO NEXT:
-# Download mp3s for valid YT videos
-# Create spectrograms from remaining ones (potentially without downloads?)
-
 import numpy as np
 import pandas as pd
 import requests
@@ -11,11 +7,10 @@ import librosa
 import librosa.display
 import matplotlib.pyplot as plt
 
-# Store salami id, yt link, and song title for valid songs
-valid_songs = {}
+valid_songs = {} # Valid Song: salami id to [yt link, and song title]
 
 # ----------------------------------------------------------------
-# TABLE ADJUSTMENTS
+# MERGE TABLES
 
 data = pd.read_csv("./spectrogram-generation/SALAMI-data/salami_youtube_pairings.csv")
 data2 = pd.read_csv("./spectrogram-generation/SALAMI-data/metadata.csv")
