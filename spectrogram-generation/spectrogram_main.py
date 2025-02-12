@@ -5,7 +5,7 @@ def main():
     generator = SpectrogramGenerator()
     
     # Process the songs (download MP3s and create spectrograms)
-    generator.process_songs()
+    generator.process_random_songs(0)
 
 if __name__ == "__main__":
     main()

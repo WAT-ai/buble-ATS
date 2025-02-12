@@ -6,6 +6,7 @@ import os
 import librosa
 import librosa.display
 import matplotlib.pyplot as plt
+import random
 
 class SpectrogramGenerator:
     def __init__(self):
@@ -82,6 +83,23 @@ class SpectrogramGenerator:
             # Download MP3
             youtube_link = value[0]
             song_title = value[1]
+            mp3_path = self.download_mp3(youtube_link)
+            print(f"Downloaded {song_title} MP3 to {mp3_path}")
+            
+            # Create Spectrogram
+            spectrogram_path = self.create_spectrogram(mp3_path)
+            print(f"Created {song_title} spectrogram at {spectrogram_path}")
+
+    def show_valid_songs(self):
+        print(self.valid_songs)
+    
+    def process_random_songs(self, num):
+        arr = random.choice(list(self.valid_songs.items()), num)
+
+        for song in arr:
+            # Download MP3
+            youtube_link = song[0]
+            song_title = song[1]
             mp3_path = self.download_mp3(youtube_link)
             print(f"Downloaded {song_title} MP3 to {mp3_path}")
             
