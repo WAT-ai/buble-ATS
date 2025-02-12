@@ -55,9 +55,6 @@ class SpectrogramGenerator:
             # Create Spectrogram
             spectrogram_path = self.create_spectrogram(mp3_path)
             print(f"Created {song_title} spectrogram at {spectrogram_path}")
-
-    def show_data(self):
-        print(self.data)
     
     def process_random_songs(self, num):
         sampled_songs = self.data.sample(num)
@@ -72,3 +69,24 @@ class SpectrogramGenerator:
             # Create Spectrogram
             spectrogram_path = self.create_spectrogram(mp3_path)
             print(f"Created {song_title} spectrogram at {spectrogram_path}")
+    
+    def process_index_songs(self, arr):
+        # Ensure numbers are unique
+        arr = list(set(arr))
+
+        for num in arr:
+            row = self.data.loc[num]
+            print(row)
+
+            # Download MP3
+            youtube_link = row['YT_LINK']
+            song_title = row['SONG_TITLE']
+            mp3_path = self.download_mp3(youtube_link)
+            print(f"Downloaded {song_title} MP3 to {mp3_path}")
+            
+            # Create Spectrogram
+            spectrogram_path = self.create_spectrogram(mp3_path)
+            print(f"Created {song_title} spectrogram at {spectrogram_path}")
+
+    def show_data(self):
+        print(self.data)
