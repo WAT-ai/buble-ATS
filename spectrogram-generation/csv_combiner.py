@@ -22,6 +22,34 @@ with open(validated_file, 'r', newline='') as f:
 # Convert to list and take only first 20 for now
 validated_ids = sorted([int(salami_id) for salami_id in validated_ids])[:20]
 
+# Common section names to look for
+SECTION_NAMES = ["Silence", "Verse", "Chorus", "Bridge", "Intro", "Outro", "Solo"]
+
+def extract_section_label(function_label, full_label, section_label):
+    """Extract the section name from the labels"""
+    # Check for silence first
+    if "Silence" in full_label or "silence" in full_label.lower():
+        return "Silence"
+    
+    # If section_label is "Silence", return it
+    if section_label == "Silence":
+        return "Silence"
+    
+    # Look for section names in the function_label
+    if function_label:
+        for section in SECTION_NAMES:
+            if section.lower() in function_label.lower():
+                return section
+    
+    # Look for section names in the full_label
+    if full_label:
+        for section in SECTION_NAMES:
+            if section.lower() in full_label.lower():
+                return section
+    
+    # If no section name found, return empty string
+    return ""
+
 # Process each validated SALAMI_ID
 all_data = {}
 for salami_id in validated_ids:
@@ -88,12 +116,16 @@ for salami_id in validated_ids:
                 # Also clean up any extra commas or spaces that might result
                 full_label = ', '.join([part.strip() for part in full_label.split(',') if part.strip()])
                 
+                # Extract section name
+                section = extract_section_label(function_label, full_label, section_label)
+                
                 annotation = {
                     "start_time": start_time,
                     "end_time": end_time,
                     "section_label": section_label,
                     "function_label": function_label,
-                    "full_label": full_label  # Use the cleaned version
+                    "full_label": full_label,
+                    "section": section  # Add the extracted section name
                 }
                 annotations.append(annotation)
         
@@ -114,4 +146,3 @@ with open(combined_output_file, 'w') as f:
     json.dump(all_data, f, indent=2)
 
 print(f"All data saved to {combined_output_file}")
-print(f"Processed {len(all_data)} SALAMI IDs (first 10 only)")
