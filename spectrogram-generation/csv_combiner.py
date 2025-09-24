@@ -19,7 +19,7 @@ with open(validated_file, 'r', newline='') as f:
     for row in reader:
         validated_ids.add(row['SALAMI_ID'])
 
-# Convert to list and take only first 10 for now
+# Convert to list and take only first 20 for now
 validated_ids = sorted([int(salami_id) for salami_id in validated_ids])[:20]
 
 # Process each validated SALAMI_ID
@@ -80,15 +80,20 @@ for salami_id in validated_ids:
                 elif len(label_parts) == 1:
                     section_label = label_parts[0]
                 
-                # Clean up function label (ex: removing parantheses)
+                # Clean up function label (ex: removing parentheses)
                 function_label = function_label.replace('(', '').replace(')', '').strip()
+                
+                # Clean full_label by removing ALL parentheses and extra spaces
+                full_label = label_text.replace('(', '').replace(')', '').strip()
+                # Also clean up any extra commas or spaces that might result
+                full_label = ', '.join([part.strip() for part in full_label.split(',') if part.strip()])
                 
                 annotation = {
                     "start_time": start_time,
                     "end_time": end_time,
                     "section_label": section_label,
                     "function_label": function_label,
-                    "full_label": label_text
+                    "full_label": full_label  # Use the cleaned version
                 }
                 annotations.append(annotation)
         

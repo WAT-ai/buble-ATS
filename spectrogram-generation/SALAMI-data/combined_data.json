@@ -28,7 +28,7 @@
         "end_time": "24.020839002",
         "section_label": "A",
         "function_label": "c",
-        "full_label": "A, (guitar), c"
+        "full_label": "A, guitar, c"
       },
       {
         "start_time": "24.020839002",
@@ -42,7 +42,7 @@
         "end_time": "39.724693877",
         "section_label": "A",
         "function_label": "d",
-        "full_label": "A, (guitar), d"
+        "full_label": "A, guitar, d"
       },
       {
         "start_time": "39.724693877",
@@ -56,7 +56,7 @@
         "end_time": "55.268707482",
         "section_label": "B",
         "function_label": "vocal, e",
-        "full_label": "B, Verse, (vocal, e"
+        "full_label": "B, Verse, vocal, e"
       },
       {
         "start_time": "55.268707482",
@@ -224,7 +224,7 @@
         "end_time": "224.262108843",
         "section_label": "A",
         "function_label": "guitar, q",
-        "full_label": "A, vocal), (guitar), q"
+        "full_label": "A, vocal, guitar, q"
       },
       {
         "start_time": "224.262108843",
@@ -238,7 +238,7 @@
         "end_time": "239.246303854",
         "section_label": "A",
         "function_label": "r",
-        "full_label": "A, (guitar), r"
+        "full_label": "A, guitar, r"
       },
       {
         "start_time": "239.246303854",
@@ -252,7 +252,7 @@
         "end_time": "254.393990929",
         "section_label": "A",
         "function_label": "s",
-        "full_label": "A, (guitar), s"
+        "full_label": "A, guitar, s"
       },
       {
         "start_time": "254.393990929",
@@ -320,7 +320,7 @@
         "end_time": "23.119365079",
         "section_label": "B",
         "function_label": "rap, e",
-        "full_label": "B, Verse, (rap, e"
+        "full_label": "B, Verse, rap, e"
       },
       {
         "start_time": "23.119365079",
@@ -411,7 +411,7 @@
         "end_time": "97.438072562",
         "section_label": "rap)",
         "function_label": "r",
-        "full_label": "rap), r"
+        "full_label": "rap, r"
       },
       {
         "start_time": "97.438072562",
@@ -446,7 +446,7 @@
         "end_time": "126.015215419",
         "section_label": "C",
         "function_label": "rap, v",
-        "full_label": "C, Verse, (rap, v"
+        "full_label": "C, Verse, rap, v"
       },
       {
         "start_time": "126.015215419",
@@ -558,7 +558,7 @@
         "end_time": "217.422426303",
         "section_label": "rap)",
         "function_label": "al",
-        "full_label": "rap), al"
+        "full_label": "rap, al"
       },
       {
         "start_time": "217.422426303",
@@ -640,21 +640,21 @@
         "end_time": "6.941405895",
         "section_label": "A",
         "function_label": "Intro, guitar",
-        "full_label": "A, a, Intro, (guitar"
+        "full_label": "A, a, Intro, guitar"
       },
       {
         "start_time": "6.941405895",
         "end_time": "13.476122448",
         "section_label": "b",
         "function_label": "guitar",
-        "full_label": "b, guitar)"
+        "full_label": "b, guitar"
       },
       {
         "start_time": "13.476122448",
         "end_time": "19.810793650",
         "section_label": "B",
         "function_label": "Verse, vocal",
-        "full_label": "B, a, Verse, (vocal"
+        "full_label": "B, a, Verse, vocal"
       },
       {
         "start_time": "19.810793650",
@@ -682,7 +682,7 @@
         "end_time": "44.922743764",
         "section_label": "C",
         "function_label": "Chorus, vocal",
-        "full_label": "C, c, Chorus, vocal)"
+        "full_label": "C, c, Chorus, vocal"
       },
       {
         "start_time": "44.922743764",
@@ -696,7 +696,7 @@
         "end_time": "57.466848072",
         "section_label": "c",
         "function_label": "vocal",
-        "full_label": "c, (vocal"
+        "full_label": "c, vocal"
       },
       {
         "start_time": "57.466848072",
@@ -738,7 +738,7 @@
         "end_time": "94.684535147",
         "section_label": "C",
         "function_label": "Chorus, vocal",
-        "full_label": "C, c, Chorus, vocal)"
+        "full_label": "C, c, Chorus, vocal"
       },
       {
         "start_time": "94.684535147",
@@ -752,21 +752,21 @@
         "end_time": "107.154535147",
         "section_label": "c",
         "function_label": "vocal",
-        "full_label": "c, (vocal"
+        "full_label": "c, vocal"
       },
       {
         "start_time": "107.154535147",
         "end_time": "113.282857142",
         "section_label": "d",
         "function_label": "vocal",
-        "full_label": "d, vocal)"
+        "full_label": "d, vocal"
       },
       {
         "start_time": "113.282857142",
         "end_time": "119.508956916",
         "section_label": "B",
         "function_label": "Solo, guitar",
-        "full_label": "B, a, Solo, (guitar"
+        "full_label": "B, a, Solo, guitar"
       },
       {
         "start_time": "119.508956916",
@@ -787,14 +787,14 @@
         "end_time": "137.762879818",
         "section_label": "b",
         "function_label": "guitar",
-        "full_label": "b, guitar)"
+        "full_label": "b, guitar"
       },
       {
         "start_time": "137.762879818",
         "end_time": "143.983877551",
         "section_label": "C",
         "function_label": "Chorus, vocal",
-        "full_label": "C, c, Chorus, (vocal)"
+        "full_label": "C, c, Chorus, vocal"
       },
       {
         "start_time": "143.983877551",
@@ -808,14 +808,14 @@
         "end_time": "156.170816326",
         "section_label": "c",
         "function_label": "vocal",
-        "full_label": "c, (vocal"
+        "full_label": "c, vocal"
       },
       {
         "start_time": "156.170816326",
         "end_time": "162.298866213",
         "section_label": "d",
         "function_label": "vocal",
-        "full_label": "d, vocal)"
+        "full_label": "d, vocal"
       },
       {
         "start_time": "162.298866213",
@@ -855,7 +855,7 @@
         "end_time": "3.661337868",
         "section_label": "I",
         "function_label": "guitar, b",
-        "full_label": "I, Intro, (guitar, b"
+        "full_label": "I, Intro, guitar, b"
       },
       {
         "start_time": "3.661337868",
@@ -890,49 +890,49 @@
         "end_time": "64.170816326",
         "section_label": "V",
         "function_label": "voice, e",
-        "full_label": "V, Verse, (voice, e"
+        "full_label": "V, Verse, voice, e"
       },
       {
         "start_time": "64.170816326",
         "end_time": "78.400272108",
         "section_label": "voice)",
         "function_label": "e",
-        "full_label": "voice), e"
+        "full_label": "voice, e"
       },
       {
         "start_time": "78.400272108",
         "end_time": "92.604535147",
         "section_label": "C",
         "function_label": "strings, f",
-        "full_label": "C, Chorus, (strings), f"
+        "full_label": "C, Chorus, strings, f"
       },
       {
         "start_time": "92.604535147",
         "end_time": "106.795827664",
         "section_label": "V",
         "function_label": "voice, g",
-        "full_label": "V, Verse, (voice, g"
+        "full_label": "V, Verse, voice, g"
       },
       {
         "start_time": "106.795827664",
         "end_time": "121.018117913",
         "section_label": "voice)",
         "function_label": "g",
-        "full_label": "voice), g"
+        "full_label": "voice, g"
       },
       {
         "start_time": "121.018117913",
         "end_time": "135.214535147",
         "section_label": "A",
         "function_label": "guitar, h",
-        "full_label": "A, Solo, (guitar), h"
+        "full_label": "A, Solo, guitar, h"
       },
       {
         "start_time": "135.214535147",
         "end_time": "149.391995464",
         "section_label": "C",
         "function_label": "voice, i",
-        "full_label": "C, Chorus, (voice, i"
+        "full_label": "C, Chorus, voice, i"
       },
       {
         "start_time": "149.391995464",
@@ -953,21 +953,21 @@
         "end_time": "192.000907029",
         "section_label": "C'",
         "function_label": "k",
-        "full_label": "C', voice), k"
+        "full_label": "C', voice, k"
       },
       {
         "start_time": "192.000907029",
         "end_time": "206.159705215",
         "section_label": "V",
         "function_label": "guitar, l",
-        "full_label": "V, Outro, (guitar, l"
+        "full_label": "V, Outro, guitar, l"
       },
       {
         "start_time": "206.159705215",
         "end_time": "214.347664399",
         "section_label": "I'",
         "function_label": "guitar, m",
-        "full_label": "I', Outro, guitar), m"
+        "full_label": "I', Outro, guitar, m"
       },
       {
         "start_time": "214.347664399",
@@ -1028,7 +1028,7 @@
         "end_time": "66.339727891",
         "section_label": "B",
         "function_label": "Verse, voice",
-        "full_label": "B, c, Verse, (voice"
+        "full_label": "B, c, Verse, voice"
       },
       {
         "start_time": "66.339727891",
@@ -1042,7 +1042,7 @@
         "end_time": "92.820453514",
         "section_label": "d",
         "function_label": "voice",
-        "full_label": "d, voice)"
+        "full_label": "d, voice"
       },
       {
         "start_time": "92.820453514",
@@ -1063,7 +1063,7 @@
         "end_time": "132.316916099",
         "section_label": "B",
         "function_label": "Verse, voice",
-        "full_label": "B, c, Verse, (voice"
+        "full_label": "B, c, Verse, voice"
       },
       {
         "start_time": "132.316916099",
@@ -1084,7 +1084,7 @@
         "end_time": "172.036009070",
         "section_label": "e",
         "function_label": "voice",
-        "full_label": "e, voice)"
+        "full_label": "e, voice"
       },
       {
         "start_time": "172.036009070",
@@ -1119,7 +1119,7 @@
         "end_time": "238.048888888",
         "section_label": "B",
         "function_label": "Verse, voice",
-        "full_label": "B, c, Verse, (voice"
+        "full_label": "B, c, Verse, voice"
       },
       {
         "start_time": "238.048888888",
@@ -1140,7 +1140,7 @@
         "end_time": "277.775170068",
         "section_label": "e",
         "function_label": "voice",
-        "full_label": "e, voice)"
+        "full_label": "e, voice"
       },
       {
         "start_time": "277.775170068",
@@ -1154,7 +1154,7 @@
         "end_time": "314.269342403",
         "section_label": "g",
         "function_label": "voice",
-        "full_label": "g, (voice)"
+        "full_label": "g, voice"
       },
       {
         "start_time": "314.269342403",
@@ -1180,28 +1180,28 @@
         "end_time": "11.085714285",
         "section_label": "N",
         "function_label": "synth, b",
-        "full_label": "N, Intro, (synth), b"
+        "full_label": "N, Intro, synth, b"
       },
       {
         "start_time": "11.085714285",
         "end_time": "21.289795918",
         "section_label": "B",
         "function_label": "vocal, c",
-        "full_label": "B, Chorus, (vocal), c"
+        "full_label": "B, Chorus, vocal, c"
       },
       {
         "start_time": "21.289795918",
         "end_time": "31.507460317",
         "section_label": "A",
         "function_label": "percussion, d",
-        "full_label": "A, Pre-Verse, (percussion), d"
+        "full_label": "A, Pre-Verse, percussion, d"
       },
       {
         "start_time": "31.507460317",
         "end_time": "41.759183673",
         "section_label": "Verse",
         "function_label": "e",
-        "full_label": "Verse, (vocal, e"
+        "full_label": "Verse, vocal, e"
       },
       {
         "start_time": "41.759183673",
@@ -1215,21 +1215,21 @@
         "end_time": "62.310204081",
         "section_label": "B",
         "function_label": "vocal, g",
-        "full_label": "B, Chorus, vocal), g"
+        "full_label": "B, Chorus, vocal, g"
       },
       {
         "start_time": "62.310204081",
         "end_time": "72.608163265",
         "section_label": "A",
         "function_label": "percussion, h",
-        "full_label": "A, Pre-Verse, (percussion), h"
+        "full_label": "A, Pre-Verse, percussion, h"
       },
       {
         "start_time": "72.608163265",
         "end_time": "82.914285714",
         "section_label": "Verse",
         "function_label": "i",
-        "full_label": "Verse, (vocal, i"
+        "full_label": "Verse, vocal, i"
       },
       {
         "start_time": "82.914285714",
@@ -1243,49 +1243,49 @@
         "end_time": "103.465306122",
         "section_label": "B",
         "function_label": "vocal, k",
-        "full_label": "B, Chorus, vocal), k"
+        "full_label": "B, Chorus, vocal, k"
       },
       {
         "start_time": "103.465306122",
         "end_time": "113.759183673",
         "section_label": "C",
         "function_label": "spoken, voice, l",
-        "full_label": "C, break, (spoken, voice), l"
+        "full_label": "C, break, spoken, voice, l"
       },
       {
         "start_time": "113.759183673",
         "end_time": "124.085714285",
         "section_label": "(percussion)",
         "function_label": "m",
-        "full_label": "(percussion), m"
+        "full_label": "percussion, m"
       },
       {
         "start_time": "124.085714285",
         "end_time": "134.485306122",
         "section_label": "(guitar)",
         "function_label": "n",
-        "full_label": "(guitar), n"
+        "full_label": "guitar, n"
       },
       {
         "start_time": "134.485306122",
         "end_time": "144.697755102",
         "section_label": "N'",
         "function_label": "o",
-        "full_label": "N', (synth), o"
+        "full_label": "N', synth, o"
       },
       {
         "start_time": "144.697755102",
         "end_time": "154.836734693",
         "section_label": "(spoken",
         "function_label": "p",
-        "full_label": "(spoken, voice), p"
+        "full_label": "spoken, voice, p"
       },
       {
         "start_time": "154.836734693",
         "end_time": "165.048979591",
         "section_label": "B",
         "function_label": "vocal, q",
-        "full_label": "B, Chorus, (vocal, q"
+        "full_label": "B, Chorus, vocal, q"
       },
       {
         "start_time": "165.048979591",
@@ -1306,28 +1306,28 @@
         "end_time": "190.636734693",
         "section_label": "B",
         "function_label": "vocal, t",
-        "full_label": "B, Chorus, vocal), t"
+        "full_label": "B, Chorus, vocal, t"
       },
       {
         "start_time": "190.636734693",
         "end_time": "200.844897959",
         "section_label": "N'",
         "function_label": "guitar, u",
-        "full_label": "N', Outro, (guitar), u"
+        "full_label": "N', Outro, guitar, u"
       },
       {
         "start_time": "200.844897959",
         "end_time": "210.983673469",
         "section_label": "(synth",
         "function_label": "v",
-        "full_label": "(synth, v"
+        "full_label": "synth, v"
       },
       {
         "start_time": "210.983673469",
         "end_time": "218.708752834",
         "section_label": "synth)",
         "function_label": "v",
-        "full_label": "synth), v"
+        "full_label": "synth, v"
       },
       {
         "start_time": "218.708752834",
@@ -1360,21 +1360,21 @@
         "end_time": "11.145578231",
         "section_label": "A",
         "function_label": "piano, b",
-        "full_label": "A, Intro, (piano, b"
+        "full_label": "A, Intro, piano, b"
       },
       {
         "start_time": "11.145578231",
         "end_time": "22.527528344",
         "section_label": "piano)",
         "function_label": "c",
-        "full_label": "piano), c"
+        "full_label": "piano, c"
       },
       {
         "start_time": "22.527528344",
         "end_time": "34.127959183",
         "section_label": "B",
         "function_label": "voice, d",
-        "full_label": "B, Verse, (voice, d"
+        "full_label": "B, Verse, voice, d"
       },
       {
         "start_time": "34.127959183",
@@ -1437,21 +1437,21 @@
         "end_time": "141.107369614",
         "section_label": "voice)",
         "function_label": "i",
-        "full_label": "voice), i"
+        "full_label": "voice, i"
       },
       {
         "start_time": "141.107369614",
         "end_time": "152.890294784",
         "section_label": "B",
         "function_label": "Instrumental, piano, j",
-        "full_label": "B, Interlude, Instrumental, (piano, j"
+        "full_label": "B, Interlude, Instrumental, piano, j"
       },
       {
         "start_time": "152.890294784",
         "end_time": "164.787482993",
         "section_label": "piano)",
         "function_label": "j",
-        "full_label": "piano), j"
+        "full_label": "piano, j"
       },
       {
         "start_time": "164.787482993",
@@ -1465,7 +1465,7 @@
         "end_time": "195.700340136",
         "section_label": "Outro",
         "function_label": "k",
-        "full_label": "Outro, voice), k"
+        "full_label": "Outro, voice, k"
       },
       {
         "start_time": "195.700340136",
@@ -1505,21 +1505,21 @@
         "end_time": "9.238639455",
         "section_label": "A",
         "function_label": "Intro, guitar",
-        "full_label": "A, a, Intro, (guitar"
+        "full_label": "A, a, Intro, guitar"
       },
       {
         "start_time": "9.238639455",
         "end_time": "15.505124716",
         "section_label": "a",
         "function_label": "guitar",
-        "full_label": "a, guitar)"
+        "full_label": "a, guitar"
       },
       {
         "start_time": "15.505124716",
         "end_time": "21.757097505",
         "section_label": "a",
         "function_label": "vocal",
-        "full_label": "a, Verse, (vocal"
+        "full_label": "a, Verse, vocal"
       },
       {
         "start_time": "21.757097505",
@@ -1673,14 +1673,14 @@
         "end_time": "165.027120181",
         "section_label": "j",
         "function_label": "vocal",
-        "full_label": "j, vocal)"
+        "full_label": "j, vocal"
       },
       {
         "start_time": "165.027120181",
         "end_time": "170.893061224",
         "section_label": "A",
         "function_label": "Bridge, guitar",
-        "full_label": "A, k, Bridge, (guitar"
+        "full_label": "A, k, Bridge, guitar"
       },
       {
         "start_time": "170.893061224",
@@ -1701,14 +1701,14 @@
         "end_time": "189.657687074",
         "section_label": "m",
         "function_label": "guitar",
-        "full_label": "m, guitar)"
+        "full_label": "m, guitar"
       },
       {
         "start_time": "189.657687074",
         "end_time": "195.906757369",
         "section_label": "C",
         "function_label": "Chorus, vocal",
-        "full_label": "C, n, Chorus, (vocal"
+        "full_label": "C, n, Chorus, vocal"
       },
       {
         "start_time": "195.906757369",
@@ -1757,14 +1757,14 @@
         "end_time": "239.677074829",
         "section_label": "q",
         "function_label": "vocal",
-        "full_label": "q, vocal)"
+        "full_label": "q, vocal"
       },
       {
         "start_time": "239.677074829",
         "end_time": "248.245850340",
         "section_label": "A",
         "function_label": "Outro, guitar",
-        "full_label": "A, r, Outro, (guitar)"
+        "full_label": "A, r, Outro, guitar"
       },
       {
         "start_time": "248.245850340",
@@ -1790,14 +1790,14 @@
         "end_time": "6.308276643",
         "section_label": "I",
         "function_label": "synth, b",
-        "full_label": "I, Intro, (synth), b"
+        "full_label": "I, Intro, synth, b"
       },
       {
         "start_time": "6.308276643",
         "end_time": "18.666734693",
         "section_label": "V",
         "function_label": "voice, c",
-        "full_label": "V, Verse, (voice, c"
+        "full_label": "V, Verse, voice, c"
       },
       {
         "start_time": "18.666734693",
@@ -1888,21 +1888,21 @@
         "end_time": "178.306190476",
         "section_label": "B",
         "function_label": "voice, k",
-        "full_label": "B, Bridge, voice), k"
+        "full_label": "B, Bridge, voice, k"
       },
       {
         "start_time": "178.306190476",
         "end_time": "190.568752834",
         "section_label": "C",
         "function_label": "guitar, l",
-        "full_label": "C, Solo, (guitar), l"
+        "full_label": "C, Solo, guitar, l"
       },
       {
         "start_time": "190.568752834",
         "end_time": "202.824512471",
         "section_label": "V",
         "function_label": "voice, m",
-        "full_label": "V, Verse, (voice, m"
+        "full_label": "V, Verse, voice, m"
       },
       {
         "start_time": "202.824512471",
@@ -1951,7 +1951,7 @@
         "end_time": "293.657437641",
         "section_label": "Fade-out",
         "function_label": "q",
-        "full_label": "Fade-out, voice), q"
+        "full_label": "Fade-out, voice, q"
       },
       {
         "start_time": "293.657437641",
@@ -1991,7 +1991,7 @@
         "end_time": "8.349138321",
         "section_label": "A",
         "function_label": "guitar",
-        "full_label": "A, Intro, (guitar"
+        "full_label": "A, Intro, guitar"
       },
       {
         "start_time": "8.349138321",
@@ -2026,14 +2026,14 @@
         "end_time": "35.309070294",
         "section_label": "A",
         "function_label": "guitar",
-        "full_label": "A, guitar)"
+        "full_label": "A, guitar"
       },
       {
         "start_time": "35.309070294",
         "end_time": "40.646530612",
         "section_label": "A",
         "function_label": "vocal",
-        "full_label": "A, Verse, (vocal"
+        "full_label": "A, Verse, vocal"
       },
       {
         "start_time": "40.646530612",
@@ -2152,14 +2152,14 @@
         "end_time": "131.155283446",
         "section_label": "A",
         "function_label": "vocal",
-        "full_label": "A, vocal)"
+        "full_label": "A, vocal"
       },
       {
         "start_time": "131.155283446",
         "end_time": "136.473514739",
         "section_label": "A",
         "function_label": "guitar",
-        "full_label": "A, Solo, (guitar"
+        "full_label": "A, Solo, guitar"
       },
       {
         "start_time": "136.473514739",
@@ -2194,14 +2194,14 @@
         "end_time": "162.952630385",
         "section_label": "A",
         "function_label": "guitar",
-        "full_label": "A, guitar)"
+        "full_label": "A, guitar"
       },
       {
         "start_time": "162.952630385",
         "end_time": "168.254353741",
         "section_label": "A",
         "function_label": "vocal",
-        "full_label": "A, Verse, (vocal"
+        "full_label": "A, Verse, vocal"
       },
       {
         "start_time": "168.254353741",
@@ -2264,7 +2264,7 @@
         "end_time": "215.117346938",
         "section_label": "A",
         "function_label": "vocal",
-        "full_label": "A, vocal)"
+        "full_label": "A, vocal"
       },
       {
         "start_time": "215.117346938",
@@ -2275,6 +2275,2478 @@
       },
       {
         "start_time": "218.911564625",
+        "end_time": "",
+        "section_label": "End",
+        "function_label": "",
+        "full_label": "End"
+      }
+    ]
+  },
+  "21": {
+    "salami_id": 21,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "0.021768707",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "0.021768707",
+        "end_time": "9.126825396",
+        "section_label": "A",
+        "function_label": "Intro",
+        "full_label": "A, a, Intro"
+      },
+      {
+        "start_time": "9.126825396",
+        "end_time": "16.536507936",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "16.536507936",
+        "end_time": "24.051768707",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "24.051768707",
+        "end_time": "31.453469387",
+        "section_label": "A",
+        "function_label": "Intro",
+        "full_label": "A, a, Intro"
+      },
+      {
+        "start_time": "31.453469387",
+        "end_time": "38.882108843",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "38.882108843",
+        "end_time": "46.353990929",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "46.353990929",
+        "end_time": "53.785170068",
+        "section_label": "B",
+        "function_label": "Verse, voice",
+        "full_label": "B, a, Verse, voice"
+      },
+      {
+        "start_time": "53.785170068",
+        "end_time": "61.292312925",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "61.292312925",
+        "end_time": "68.662222222",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "68.662222222",
+        "end_time": "76.087845804",
+        "section_label": "B",
+        "function_label": "Verse",
+        "full_label": "B, a, Verse"
+      },
+      {
+        "start_time": "76.087845804",
+        "end_time": "83.738095238",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "83.738095238",
+        "end_time": "91.053945578",
+        "section_label": "c",
+        "function_label": "voice",
+        "full_label": "c, voice"
+      },
+      {
+        "start_time": "91.053945578",
+        "end_time": "98.559047619",
+        "section_label": "C",
+        "function_label": "Solo, guitar",
+        "full_label": "C, a, Solo, guitar"
+      },
+      {
+        "start_time": "98.559047619",
+        "end_time": "106.061950113",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "106.061950113",
+        "end_time": "113.622993197",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "113.622993197",
+        "end_time": "120.901904761",
+        "section_label": "D",
+        "function_label": "Solo",
+        "full_label": "D, a', Solo"
+      },
+      {
+        "start_time": "120.901904761",
+        "end_time": "128.313741496",
+        "section_label": "b'",
+        "function_label": "",
+        "full_label": "b'"
+      },
+      {
+        "start_time": "128.313741496",
+        "end_time": "135.584829931",
+        "section_label": "c'",
+        "function_label": "",
+        "full_label": "c'"
+      },
+      {
+        "start_time": "135.584829931",
+        "end_time": "142.911111111",
+        "section_label": "D",
+        "function_label": "Solo",
+        "full_label": "D, a', Solo"
+      },
+      {
+        "start_time": "142.911111111",
+        "end_time": "150.430408163",
+        "section_label": "b'",
+        "function_label": "",
+        "full_label": "b'"
+      },
+      {
+        "start_time": "150.430408163",
+        "end_time": "157.872176870",
+        "section_label": "c'",
+        "function_label": "",
+        "full_label": "c'"
+      },
+      {
+        "start_time": "157.872176870",
+        "end_time": "165.253718820",
+        "section_label": "D",
+        "function_label": "Solo",
+        "full_label": "D, a', Solo"
+      },
+      {
+        "start_time": "165.253718820",
+        "end_time": "172.669251700",
+        "section_label": "b'",
+        "function_label": "",
+        "full_label": "b'"
+      },
+      {
+        "start_time": "172.669251700",
+        "end_time": "179.980748299",
+        "section_label": "c'",
+        "function_label": "guitar",
+        "full_label": "c', guitar"
+      },
+      {
+        "start_time": "179.980748299",
+        "end_time": "187.258820861",
+        "section_label": "E",
+        "function_label": "Verse, voice",
+        "full_label": "E, a', Verse, voice"
+      },
+      {
+        "start_time": "187.258820861",
+        "end_time": "194.622857142",
+        "section_label": "b'",
+        "function_label": "",
+        "full_label": "b'"
+      },
+      {
+        "start_time": "194.622857142",
+        "end_time": "201.660589569",
+        "section_label": "c'",
+        "function_label": "",
+        "full_label": "c'"
+      },
+      {
+        "start_time": "201.660589569",
+        "end_time": "209.031065759",
+        "section_label": "E",
+        "function_label": "Verse",
+        "full_label": "E, a', Verse"
+      },
+      {
+        "start_time": "209.031065759",
+        "end_time": "216.163832199",
+        "section_label": "b'",
+        "function_label": "",
+        "full_label": "b'"
+      },
+      {
+        "start_time": "216.163832199",
+        "end_time": "223.316439909",
+        "section_label": "c'",
+        "function_label": "voice",
+        "full_label": "c', voice"
+      },
+      {
+        "start_time": "223.316439909",
+        "end_time": "230.388888888",
+        "section_label": "A",
+        "function_label": "Interlude",
+        "full_label": "A, a, Interlude"
+      },
+      {
+        "start_time": "230.388888888",
+        "end_time": "237.583401360",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "237.583401360",
+        "end_time": "244.901814058",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "244.901814058",
+        "end_time": "252.277732426",
+        "section_label": "B",
+        "function_label": "Verse, voice",
+        "full_label": "B, a, Verse, voice"
+      },
+      {
+        "start_time": "252.277732426",
+        "end_time": "259.682267573",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "259.682267573",
+        "end_time": "266.912517006",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "266.912517006",
+        "end_time": "274.292312925",
+        "section_label": "B",
+        "function_label": "Verse",
+        "full_label": "B, a, Verse"
+      },
+      {
+        "start_time": "274.292312925",
+        "end_time": "281.574897959",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "281.574897959",
+        "end_time": "288.997369614",
+        "section_label": "c",
+        "function_label": "voice",
+        "full_label": "c, voice"
+      },
+      {
+        "start_time": "288.997369614",
+        "end_time": "296.348253968",
+        "section_label": "D",
+        "function_label": "Solo, guitar",
+        "full_label": "D, a', Solo, guitar"
+      },
+      {
+        "start_time": "296.348253968",
+        "end_time": "303.752630385",
+        "section_label": "b'",
+        "function_label": "",
+        "full_label": "b'"
+      },
+      {
+        "start_time": "303.752630385",
+        "end_time": "311.190430839",
+        "section_label": "c'",
+        "function_label": "",
+        "full_label": "c'"
+      },
+      {
+        "start_time": "311.190430839",
+        "end_time": "318.511587301",
+        "section_label": "D",
+        "function_label": "Solo",
+        "full_label": "D, a', Solo"
+      },
+      {
+        "start_time": "318.511587301",
+        "end_time": "325.794421768",
+        "section_label": "b'",
+        "function_label": "",
+        "full_label": "b'"
+      },
+      {
+        "start_time": "325.794421768",
+        "end_time": "333.117596371",
+        "section_label": "c'",
+        "function_label": "guitar",
+        "full_label": "c', guitar"
+      },
+      {
+        "start_time": "333.117596371",
+        "end_time": "340.507165532",
+        "section_label": "E",
+        "function_label": "Verse, voice",
+        "full_label": "E, a', Verse, voice"
+      },
+      {
+        "start_time": "340.507165532",
+        "end_time": "347.680861678",
+        "section_label": "b'",
+        "function_label": "",
+        "full_label": "b'"
+      },
+      {
+        "start_time": "347.680861678",
+        "end_time": "351.940498866",
+        "section_label": "c'",
+        "function_label": "voice",
+        "full_label": "c', voice"
+      },
+      {
+        "start_time": "351.940498866",
+        "end_time": "362.330793650",
+        "section_label": "F",
+        "function_label": "Outro",
+        "full_label": "F, d, Outro"
+      },
+      {
+        "start_time": "362.330793650",
+        "end_time": "383.316666666",
+        "section_label": "Z",
+        "function_label": "",
+        "full_label": "Z"
+      },
+      {
+        "start_time": "383.316666666",
+        "end_time": "",
+        "section_label": "End",
+        "function_label": "",
+        "full_label": "End"
+      }
+    ]
+  },
+  "22": {
+    "salami_id": 22,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "0.208979591",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "0.208979591",
+        "end_time": "1.184217687",
+        "section_label": "m",
+        "function_label": "Intro, drums",
+        "full_label": "m, N, Intro, drums"
+      },
+      {
+        "start_time": "1.184217687",
+        "end_time": "7.907074829",
+        "section_label": "c",
+        "function_label": "guitar",
+        "full_label": "c, guitar"
+      },
+      {
+        "start_time": "7.907074829",
+        "end_time": "14.538117913",
+        "section_label": "d",
+        "function_label": "guitar",
+        "full_label": "d, guitar"
+      },
+      {
+        "start_time": "14.538117913",
+        "end_time": "21.306802721",
+        "section_label": "a",
+        "function_label": "Chorus, vocal",
+        "full_label": "a, A, Chorus, vocal"
+      },
+      {
+        "start_time": "21.306802721",
+        "end_time": "27.978027210",
+        "section_label": "b",
+        "function_label": "guitar",
+        "full_label": "b, guitar"
+      },
+      {
+        "start_time": "27.978027210",
+        "end_time": "34.689977324",
+        "section_label": "a",
+        "function_label": "vocal",
+        "full_label": "a, vocal"
+      },
+      {
+        "start_time": "34.689977324",
+        "end_time": "41.426167800",
+        "section_label": "b",
+        "function_label": "guitar",
+        "full_label": "b, guitar"
+      },
+      {
+        "start_time": "41.426167800",
+        "end_time": "48.146258503",
+        "section_label": "c",
+        "function_label": "vocal",
+        "full_label": "c, vocal"
+      },
+      {
+        "start_time": "48.146258503",
+        "end_time": "54.844807256",
+        "section_label": "d",
+        "function_label": "guitar",
+        "full_label": "d, guitar"
+      },
+      {
+        "start_time": "54.844807256",
+        "end_time": "61.579024943",
+        "section_label": "a",
+        "function_label": "Chorus, vocal",
+        "full_label": "a, A, Chorus, vocal"
+      },
+      {
+        "start_time": "61.579024943",
+        "end_time": "68.234036281",
+        "section_label": "b",
+        "function_label": "guitar",
+        "full_label": "b, guitar"
+      },
+      {
+        "start_time": "68.234036281",
+        "end_time": "74.922086167",
+        "section_label": "a",
+        "function_label": "vocal",
+        "full_label": "a, vocal"
+      },
+      {
+        "start_time": "74.922086167",
+        "end_time": "81.570929705",
+        "section_label": "b",
+        "function_label": "guitar",
+        "full_label": "b, guitar"
+      },
+      {
+        "start_time": "81.570929705",
+        "end_time": "88.342494331",
+        "section_label": "c",
+        "function_label": "vocal",
+        "full_label": "c, vocal"
+      },
+      {
+        "start_time": "88.342494331",
+        "end_time": "94.874104308",
+        "section_label": "d",
+        "function_label": "guitar",
+        "full_label": "d, guitar"
+      },
+      {
+        "start_time": "94.874104308",
+        "end_time": "101.522108843",
+        "section_label": "e",
+        "function_label": "Chorus, vocal",
+        "full_label": "e, B, Chorus, vocal"
+      },
+      {
+        "start_time": "101.522108843",
+        "end_time": "108.170340136",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "108.170340136",
+        "end_time": "114.847528344",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "114.847528344",
+        "end_time": "121.354172335",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "121.354172335",
+        "end_time": "127.906009070",
+        "section_label": "f",
+        "function_label": "vocal",
+        "full_label": "f, vocal"
+      },
+      {
+        "start_time": "127.906009070",
+        "end_time": "134.490839002",
+        "section_label": "g",
+        "function_label": "guitar",
+        "full_label": "g, guitar"
+      },
+      {
+        "start_time": "134.490839002",
+        "end_time": "141.143741496",
+        "section_label": "c",
+        "function_label": "vocal",
+        "full_label": "c, vocal"
+      },
+      {
+        "start_time": "141.143741496",
+        "end_time": "147.554081632",
+        "section_label": "d",
+        "function_label": "guitar",
+        "full_label": "d, guitar"
+      },
+      {
+        "start_time": "147.554081632",
+        "end_time": "154.235260770",
+        "section_label": "a",
+        "function_label": "Solo",
+        "full_label": "a, A, Solo"
+      },
+      {
+        "start_time": "154.235260770",
+        "end_time": "160.826417233",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "160.826417233",
+        "end_time": "167.490680272",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "167.490680272",
+        "end_time": "173.978820861",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "173.978820861",
+        "end_time": "180.578004535",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "180.578004535",
+        "end_time": "187.121882086",
+        "section_label": "d",
+        "function_label": "guitar",
+        "full_label": "d, guitar"
+      },
+      {
+        "start_time": "187.121882086",
+        "end_time": "193.745736961",
+        "section_label": "e",
+        "function_label": "Chorus, vocal",
+        "full_label": "e, B, Chorus, vocal"
+      },
+      {
+        "start_time": "193.745736961",
+        "end_time": "200.321882086",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "200.321882086",
+        "end_time": "206.833809523",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "206.833809523",
+        "end_time": "213.362131519",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "213.362131519",
+        "end_time": "219.929977324",
+        "section_label": "f",
+        "function_label": "vocal",
+        "full_label": "f, vocal"
+      },
+      {
+        "start_time": "219.929977324",
+        "end_time": "226.545736961",
+        "section_label": "g",
+        "function_label": "guitar",
+        "full_label": "g, guitar"
+      },
+      {
+        "start_time": "226.545736961",
+        "end_time": "233.098253968",
+        "section_label": "c",
+        "function_label": "vocal",
+        "full_label": "c, vocal"
+      },
+      {
+        "start_time": "233.098253968",
+        "end_time": "239.513786848",
+        "section_label": "d",
+        "function_label": "guitar",
+        "full_label": "d, guitar"
+      },
+      {
+        "start_time": "239.513786848",
+        "end_time": "246.105804988",
+        "section_label": "a",
+        "function_label": "Chorus, vocal",
+        "full_label": "a, A, Chorus, vocal"
+      },
+      {
+        "start_time": "246.105804988",
+        "end_time": "252.665804988",
+        "section_label": "b",
+        "function_label": "guitar",
+        "full_label": "b, guitar"
+      },
+      {
+        "start_time": "252.665804988",
+        "end_time": "259.279365079",
+        "section_label": "a",
+        "function_label": "vocal",
+        "full_label": "a, vocal"
+      },
+      {
+        "start_time": "259.279365079",
+        "end_time": "265.786507936",
+        "section_label": "b",
+        "function_label": "guitar",
+        "full_label": "b, guitar"
+      },
+      {
+        "start_time": "265.786507936",
+        "end_time": "272.400453514",
+        "section_label": "c",
+        "function_label": "vocal",
+        "full_label": "c, vocal"
+      },
+      {
+        "start_time": "272.400453514",
+        "end_time": "279.057414965",
+        "section_label": "d",
+        "function_label": "guitar",
+        "full_label": "d, guitar"
+      },
+      {
+        "start_time": "279.057414965",
+        "end_time": "291.976825396",
+        "section_label": "n",
+        "function_label": "guitar",
+        "full_label": "n, Outro, guitar"
+      },
+      {
+        "start_time": "291.976825396",
+        "end_time": "295.725827664",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "295.725827664",
+        "end_time": "",
+        "section_label": "End",
+        "function_label": "",
+        "full_label": "End"
+      }
+    ]
+  },
+  "23": {
+    "salami_id": 23,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "0.464399092",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "0.464399092",
+        "end_time": "7.128526077",
+        "section_label": "y",
+        "function_label": "Intro, drums",
+        "full_label": "y, N, Intro, drums"
+      },
+      {
+        "start_time": "7.128526077",
+        "end_time": "13.648843537",
+        "section_label": "a",
+        "function_label": "guitar",
+        "full_label": "a, guitar"
+      },
+      {
+        "start_time": "13.648843537",
+        "end_time": "20.131700680",
+        "section_label": "b",
+        "function_label": "guitar",
+        "full_label": "b, guitar"
+      },
+      {
+        "start_time": "20.131700680",
+        "end_time": "26.680997732",
+        "section_label": "a",
+        "function_label": "Verse, vocal",
+        "full_label": "a, A, Verse, vocal"
+      },
+      {
+        "start_time": "26.680997732",
+        "end_time": "33.208775510",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "33.208775510",
+        "end_time": "39.688798185",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "39.688798185",
+        "end_time": "46.233061224",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "46.233061224",
+        "end_time": "49.644263038",
+        "section_label": "c",
+        "function_label": "Chorus, vocal",
+        "full_label": "c, C, Chorus, vocal"
+      },
+      {
+        "start_time": "49.644263038",
+        "end_time": "56.226757369",
+        "section_label": "a",
+        "function_label": "Pre-Verse, guitar",
+        "full_label": "a, B, Pre-Verse, guitar"
+      },
+      {
+        "start_time": "56.226757369",
+        "end_time": "62.688775510",
+        "section_label": "b",
+        "function_label": "guitar",
+        "full_label": "b, guitar"
+      },
+      {
+        "start_time": "62.688775510",
+        "end_time": "69.268866213",
+        "section_label": "a",
+        "function_label": "Verse, vocal",
+        "full_label": "a, A, Verse, vocal"
+      },
+      {
+        "start_time": "69.268866213",
+        "end_time": "75.816848072",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "75.816848072",
+        "end_time": "82.314739229",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "82.314739229",
+        "end_time": "88.752811791",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "88.752811791",
+        "end_time": "92.030226757",
+        "section_label": "c",
+        "function_label": "Chorus, vocal",
+        "full_label": "c, C, Chorus, vocal"
+      },
+      {
+        "start_time": "92.030226757",
+        "end_time": "98.561156462",
+        "section_label": "a",
+        "function_label": "guitar",
+        "full_label": "a, guitar"
+      },
+      {
+        "start_time": "98.561156462",
+        "end_time": "104.992539682",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "104.992539682",
+        "end_time": "111.510045351",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "111.510045351",
+        "end_time": "117.911179138",
+        "section_label": "b",
+        "function_label": "guitar",
+        "full_label": "b, guitar"
+      },
+      {
+        "start_time": "117.911179138",
+        "end_time": "124.408140589",
+        "section_label": "a",
+        "function_label": "Verse, vocal",
+        "full_label": "a, A, Verse, vocal"
+      },
+      {
+        "start_time": "124.408140589",
+        "end_time": "130.985079365",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "130.985079365",
+        "end_time": "137.516530612",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "137.516530612",
+        "end_time": "144.097959183",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "144.097959183",
+        "end_time": "147.484807256",
+        "section_label": "c",
+        "function_label": "Chorus",
+        "full_label": "c, C, Chorus"
+      },
+      {
+        "start_time": "147.484807256",
+        "end_time": "153.956485260",
+        "section_label": "a",
+        "function_label": "Outro",
+        "full_label": "a, D, Outro"
+      },
+      {
+        "start_time": "153.956485260",
+        "end_time": "160.426666666",
+        "section_label": "a",
+        "function_label": "vocal",
+        "full_label": "a, vocal"
+      },
+      {
+        "start_time": "160.426666666",
+        "end_time": "166.732448979",
+        "section_label": "a",
+        "function_label": "guitar",
+        "full_label": "a, guitar"
+      },
+      {
+        "start_time": "166.732448979",
+        "end_time": "173.124353741",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "173.124353741",
+        "end_time": "179.513469387",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "179.513469387",
+        "end_time": "193.066349206",
+        "section_label": "a",
+        "function_label": "guitar",
+        "full_label": "a, guitar"
+      },
+      {
+        "start_time": "193.066349206",
+        "end_time": "193.264285714",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "193.264285714",
+        "end_time": "",
+        "section_label": "End",
+        "function_label": "",
+        "full_label": "End"
+      }
+    ]
+  },
+  "24": {
+    "salami_id": 24,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "0.952018140",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "0.952018140",
+        "end_time": "33.856485260",
+        "section_label": "I",
+        "function_label": "Intro, synth",
+        "full_label": "I, i, Intro, synth"
+      },
+      {
+        "start_time": "33.856485260",
+        "end_time": "44.675192743",
+        "section_label": "j",
+        "function_label": "accordion",
+        "full_label": "j, accordion"
+      },
+      {
+        "start_time": "44.675192743",
+        "end_time": "54.868752834",
+        "section_label": "j",
+        "function_label": "",
+        "full_label": "j"
+      },
+      {
+        "start_time": "54.868752834",
+        "end_time": "65.034580498",
+        "section_label": "A",
+        "function_label": "Head",
+        "full_label": "A, a, Head"
+      },
+      {
+        "start_time": "65.034580498",
+        "end_time": "75.303650793",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "75.303650793",
+        "end_time": "85.560068027",
+        "section_label": "A",
+        "function_label": "Head",
+        "full_label": "A, a, Head"
+      },
+      {
+        "start_time": "85.560068027",
+        "end_time": "95.598208616",
+        "section_label": "b",
+        "function_label": "accordion",
+        "full_label": "b, accordion"
+      },
+      {
+        "start_time": "95.598208616",
+        "end_time": "105.783673469",
+        "section_label": "A",
+        "function_label": "Solo, guitar",
+        "full_label": "A, a, Solo, guitar"
+      },
+      {
+        "start_time": "105.783673469",
+        "end_time": "115.783650793",
+        "section_label": "b",
+        "function_label": "guitar",
+        "full_label": "b, guitar"
+      },
+      {
+        "start_time": "115.783650793",
+        "end_time": "125.891383219",
+        "section_label": "A",
+        "function_label": "Head, organ",
+        "full_label": "A, a, Head, organ"
+      },
+      {
+        "start_time": "125.891383219",
+        "end_time": "135.823854875",
+        "section_label": "b",
+        "function_label": "organ",
+        "full_label": "b, organ"
+      },
+      {
+        "start_time": "135.823854875",
+        "end_time": "145.887777777",
+        "section_label": "A",
+        "function_label": "Head, guitar",
+        "full_label": "A, a, Head, guitar"
+      },
+      {
+        "start_time": "145.887777777",
+        "end_time": "155.875578231",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "155.875578231",
+        "end_time": "165.889795918",
+        "section_label": "A",
+        "function_label": "Coda",
+        "full_label": "A, a, Coda"
+      },
+      {
+        "start_time": "165.889795918",
+        "end_time": "175.881201814",
+        "section_label": "b",
+        "function_label": "guitar",
+        "full_label": "b, guitar"
+      },
+      {
+        "start_time": "175.881201814",
+        "end_time": "186.365011337",
+        "section_label": "a",
+        "function_label": "accordion",
+        "full_label": "a, accordion"
+      },
+      {
+        "start_time": "186.365011337",
+        "end_time": "200.035419501",
+        "section_label": "b",
+        "function_label": "accordion",
+        "full_label": "b, Fade-out, accordion"
+      },
+      {
+        "start_time": "200.035419501",
+        "end_time": "202.903922902",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "202.903922902",
+        "end_time": "",
+        "section_label": "End",
+        "function_label": "",
+        "full_label": "End"
+      }
+    ]
+  },
+  "26": {
+    "salami_id": 26,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "0.361224489",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "0.361224489",
+        "end_time": "10.710204081",
+        "section_label": "I",
+        "function_label": "Intro, guitar",
+        "full_label": "I, i, Intro, guitar"
+      },
+      {
+        "start_time": "10.710204081",
+        "end_time": "20.718752834",
+        "section_label": "f",
+        "function_label": "guitar",
+        "full_label": "f, guitar"
+      },
+      {
+        "start_time": "20.718752834",
+        "end_time": "30.950929705",
+        "section_label": "V",
+        "function_label": "Verse, voice",
+        "full_label": "V, e, Verse, voice"
+      },
+      {
+        "start_time": "30.950929705",
+        "end_time": "41.403673469",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "41.403673469",
+        "end_time": "52.151043083",
+        "section_label": "a",
+        "function_label": "voice",
+        "full_label": "a, voice"
+      },
+      {
+        "start_time": "52.151043083",
+        "end_time": "63.181111111",
+        "section_label": "e'",
+        "function_label": "harmonica",
+        "full_label": "e', harmonica"
+      },
+      {
+        "start_time": "63.181111111",
+        "end_time": "74.317142857",
+        "section_label": "b",
+        "function_label": "voice",
+        "full_label": "b, voice"
+      },
+      {
+        "start_time": "74.317142857",
+        "end_time": "85.535668934",
+        "section_label": "f",
+        "function_label": "harmonica",
+        "full_label": "f, harmonica"
+      },
+      {
+        "start_time": "85.535668934",
+        "end_time": "97.100136054",
+        "section_label": "V",
+        "function_label": "Verse, voice",
+        "full_label": "V, e, Verse, voice"
+      },
+      {
+        "start_time": "97.100136054",
+        "end_time": "108.557619047",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "108.557619047",
+        "end_time": "120.107301587",
+        "section_label": "a",
+        "function_label": "voice",
+        "full_label": "a, voice"
+      },
+      {
+        "start_time": "120.107301587",
+        "end_time": "131.747573696",
+        "section_label": "e'",
+        "function_label": "harmonica",
+        "full_label": "e', harmonica"
+      },
+      {
+        "start_time": "131.747573696",
+        "end_time": "143.452494331",
+        "section_label": "b",
+        "function_label": "voice",
+        "full_label": "b, voice"
+      },
+      {
+        "start_time": "143.452494331",
+        "end_time": "155.154217687",
+        "section_label": "f",
+        "function_label": "harmonica",
+        "full_label": "f, harmonica"
+      },
+      {
+        "start_time": "155.154217687",
+        "end_time": "167.353741496",
+        "section_label": "V",
+        "function_label": "Solo, guitar",
+        "full_label": "V, e, Solo, guitar"
+      },
+      {
+        "start_time": "167.353741496",
+        "end_time": "178.984013605",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "178.984013605",
+        "end_time": "190.938662131",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "190.938662131",
+        "end_time": "202.527913832",
+        "section_label": "e'",
+        "function_label": "",
+        "full_label": "e'"
+      },
+      {
+        "start_time": "202.527913832",
+        "end_time": "214.355918367",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "214.355918367",
+        "end_time": "226.122403628",
+        "section_label": "f",
+        "function_label": "guitar",
+        "full_label": "f, guitar"
+      },
+      {
+        "start_time": "226.122403628",
+        "end_time": "238.136757369",
+        "section_label": "V",
+        "function_label": "Verse, voice",
+        "full_label": "V, e, Verse, voice"
+      },
+      {
+        "start_time": "238.136757369",
+        "end_time": "250.023333333",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "250.023333333",
+        "end_time": "262.178684807",
+        "section_label": "a",
+        "function_label": "voice",
+        "full_label": "a, voice"
+      },
+      {
+        "start_time": "262.178684807",
+        "end_time": "274.213265306",
+        "section_label": "e'",
+        "function_label": "harmonica",
+        "full_label": "e', harmonica"
+      },
+      {
+        "start_time": "274.213265306",
+        "end_time": "286.193106575",
+        "section_label": "b",
+        "function_label": "voice",
+        "full_label": "b, voice"
+      },
+      {
+        "start_time": "286.193106575",
+        "end_time": "301.905827664",
+        "section_label": "f",
+        "function_label": "harmonica",
+        "full_label": "f, harmonica"
+      },
+      {
+        "start_time": "301.905827664",
+        "end_time": "311.482131519",
+        "section_label": "Z",
+        "function_label": "cheers and applause",
+        "full_label": "Z, cheers and applause"
+      },
+      {
+        "start_time": "311.482131519",
+        "end_time": "314.548072562",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "314.548072562",
+        "end_time": "",
+        "section_label": "End",
+        "function_label": "",
+        "full_label": "End"
+      }
+    ]
+  },
+  "27": {
+    "salami_id": 27,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "0.465600907",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "0.465600907",
+        "end_time": "10.034036281",
+        "section_label": "A",
+        "function_label": "Intro",
+        "full_label": "A, a, Intro"
+      },
+      {
+        "start_time": "10.034036281",
+        "end_time": "19.511111111",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "19.511111111",
+        "end_time": "28.993628117",
+        "section_label": "B",
+        "function_label": "guitar",
+        "full_label": "B, b, guitar"
+      },
+      {
+        "start_time": "28.993628117",
+        "end_time": "38.488866213",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "38.488866213",
+        "end_time": "47.925056689",
+        "section_label": "d",
+        "function_label": "",
+        "full_label": "d"
+      },
+      {
+        "start_time": "47.925056689",
+        "end_time": "57.461678004",
+        "section_label": "c'",
+        "function_label": "",
+        "full_label": "c'"
+      },
+      {
+        "start_time": "57.461678004",
+        "end_time": "66.929183673",
+        "section_label": "C",
+        "function_label": "Chorus",
+        "full_label": "C, e, Chorus"
+      },
+      {
+        "start_time": "66.929183673",
+        "end_time": "76.348458049",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "76.348458049",
+        "end_time": "85.835623582",
+        "section_label": "f",
+        "function_label": "",
+        "full_label": "f"
+      },
+      {
+        "start_time": "85.835623582",
+        "end_time": "95.141020408",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "95.141020408",
+        "end_time": "104.466848072",
+        "section_label": "D",
+        "function_label": "g",
+        "full_label": "D, g"
+      },
+      {
+        "start_time": "104.466848072",
+        "end_time": "113.802970521",
+        "section_label": "g",
+        "function_label": "",
+        "full_label": "g"
+      },
+      {
+        "start_time": "113.802970521",
+        "end_time": "123.155850340",
+        "section_label": "h",
+        "function_label": "",
+        "full_label": "h"
+      },
+      {
+        "start_time": "123.155850340",
+        "end_time": "132.358253968",
+        "section_label": "h",
+        "function_label": "",
+        "full_label": "h"
+      },
+      {
+        "start_time": "132.358253968",
+        "end_time": "141.607551020",
+        "section_label": "h",
+        "function_label": "",
+        "full_label": "h"
+      },
+      {
+        "start_time": "141.607551020",
+        "end_time": "150.998820861",
+        "section_label": "i",
+        "function_label": "",
+        "full_label": "i"
+      },
+      {
+        "start_time": "150.998820861",
+        "end_time": "160.315419501",
+        "section_label": "C'",
+        "function_label": "Chorus",
+        "full_label": "C', e, Chorus"
+      },
+      {
+        "start_time": "160.315419501",
+        "end_time": "169.613424036",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "169.613424036",
+        "end_time": "178.798049886",
+        "section_label": "f",
+        "function_label": "",
+        "full_label": "f"
+      },
+      {
+        "start_time": "178.798049886",
+        "end_time": "188.051519274",
+        "section_label": "e'",
+        "function_label": "",
+        "full_label": "e'"
+      },
+      {
+        "start_time": "188.051519274",
+        "end_time": "197.423718820",
+        "section_label": "E",
+        "function_label": "Interlude",
+        "full_label": "E, j, Interlude"
+      },
+      {
+        "start_time": "197.423718820",
+        "end_time": "206.762018140",
+        "section_label": "j",
+        "function_label": "",
+        "full_label": "j"
+      },
+      {
+        "start_time": "206.762018140",
+        "end_time": "216.165011337",
+        "section_label": "j",
+        "function_label": "",
+        "full_label": "j"
+      },
+      {
+        "start_time": "216.165011337",
+        "end_time": "225.509909297",
+        "section_label": "j",
+        "function_label": "",
+        "full_label": "j"
+      },
+      {
+        "start_time": "225.509909297",
+        "end_time": "234.807959183",
+        "section_label": "j",
+        "function_label": "",
+        "full_label": "j"
+      },
+      {
+        "start_time": "234.807959183",
+        "end_time": "244.210158730",
+        "section_label": "j",
+        "function_label": "",
+        "full_label": "j"
+      },
+      {
+        "start_time": "244.210158730",
+        "end_time": "253.508866213",
+        "section_label": "j",
+        "function_label": "guitar",
+        "full_label": "j, guitar"
+      },
+      {
+        "start_time": "253.508866213",
+        "end_time": "262.671496598",
+        "section_label": "A'",
+        "function_label": "Outro",
+        "full_label": "A', a, Outro"
+      },
+      {
+        "start_time": "262.671496598",
+        "end_time": "276.621882086",
+        "section_label": "a'",
+        "function_label": "",
+        "full_label": "a'"
+      },
+      {
+        "start_time": "276.621882086",
+        "end_time": "278.620816326",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "278.620816326",
+        "end_time": "",
+        "section_label": "End",
+        "function_label": "",
+        "full_label": "End"
+      }
+    ]
+  },
+  "30": {
+    "salami_id": 30,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "0.557278911",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "0.557278911",
+        "end_time": "5.743582766",
+        "section_label": "A'",
+        "function_label": "Intro, guitar",
+        "full_label": "A', c, Intro, guitar"
+      },
+      {
+        "start_time": "5.743582766",
+        "end_time": "11.029818594",
+        "section_label": "c",
+        "function_label": "bass",
+        "full_label": "c, bass"
+      },
+      {
+        "start_time": "11.029818594",
+        "end_time": "16.694331065",
+        "section_label": "d",
+        "function_label": "guitar",
+        "full_label": "d, guitar"
+      },
+      {
+        "start_time": "16.694331065",
+        "end_time": "21.846371882",
+        "section_label": "A",
+        "function_label": "Verse, vocal",
+        "full_label": "A, c, Verse, vocal"
+      },
+      {
+        "start_time": "21.846371882",
+        "end_time": "26.221428571",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "26.221428571",
+        "end_time": "31.397823129",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "31.397823129",
+        "end_time": "34.019795918",
+        "section_label": "d",
+        "function_label": "vocal",
+        "full_label": "d, vocal"
+      },
+      {
+        "start_time": "34.019795918",
+        "end_time": "39.061814058",
+        "section_label": "d",
+        "function_label": "guitar",
+        "full_label": "d, Interlude, guitar"
+      },
+      {
+        "start_time": "39.061814058",
+        "end_time": "43.862721088",
+        "section_label": "A",
+        "function_label": "Verse, vocal",
+        "full_label": "A, c, Verse, vocal"
+      },
+      {
+        "start_time": "43.862721088",
+        "end_time": "48.112970521",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "48.112970521",
+        "end_time": "53.117709750",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "53.117709750",
+        "end_time": "58.358480725",
+        "section_label": "d",
+        "function_label": "vocal",
+        "full_label": "d, vocal"
+      },
+      {
+        "start_time": "58.358480725",
+        "end_time": "63.128866213",
+        "section_label": "A'",
+        "function_label": "Interlude, guitar",
+        "full_label": "A', c, Interlude, guitar"
+      },
+      {
+        "start_time": "63.128866213",
+        "end_time": "68.121972789",
+        "section_label": "c",
+        "function_label": "bass",
+        "full_label": "c, bass"
+      },
+      {
+        "start_time": "68.121972789",
+        "end_time": "73.772947845",
+        "section_label": "d",
+        "function_label": "guitar",
+        "full_label": "d, guitar"
+      },
+      {
+        "start_time": "73.772947845",
+        "end_time": "77.388004535",
+        "section_label": "A'",
+        "function_label": "Verse, vocal",
+        "full_label": "A', c, Verse, vocal"
+      },
+      {
+        "start_time": "77.388004535",
+        "end_time": "82.334852607",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "82.334852607",
+        "end_time": "87.372539682",
+        "section_label": "d",
+        "function_label": "vocal",
+        "full_label": "d, vocal"
+      },
+      {
+        "start_time": "87.372539682",
+        "end_time": "92.414716553",
+        "section_label": "A",
+        "function_label": "Interlude, guitar",
+        "full_label": "A, c, Interlude, guitar"
+      },
+      {
+        "start_time": "92.414716553",
+        "end_time": "96.607006802",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "96.607006802",
+        "end_time": "101.452358276",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "101.452358276",
+        "end_time": "105.803333333",
+        "section_label": "d",
+        "function_label": "guitar",
+        "full_label": "d, guitar"
+      },
+      {
+        "start_time": "105.803333333",
+        "end_time": "110.763628117",
+        "section_label": "A'",
+        "function_label": "Verse, vocal",
+        "full_label": "A', c, Verse, vocal"
+      },
+      {
+        "start_time": "110.763628117",
+        "end_time": "115.033356009",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "115.033356009",
+        "end_time": "120.081473922",
+        "section_label": "d",
+        "function_label": "vocal",
+        "full_label": "d, vocal"
+      },
+      {
+        "start_time": "120.081473922",
+        "end_time": "124.733061224",
+        "section_label": "A'",
+        "function_label": "Solo, bass",
+        "full_label": "A', c, Solo, bass"
+      },
+      {
+        "start_time": "124.733061224",
+        "end_time": "129.484625850",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "129.484625850",
+        "end_time": "134.913537414",
+        "section_label": "d",
+        "function_label": "bass",
+        "full_label": "d, bass"
+      },
+      {
+        "start_time": "134.913537414",
+        "end_time": "142.171746031",
+        "section_label": "A'",
+        "function_label": "guitar",
+        "full_label": "A', c, guitar"
+      },
+      {
+        "start_time": "142.171746031",
+        "end_time": "146.825419501",
+        "section_label": "c",
+        "function_label": "bass",
+        "full_label": "c, bass"
+      },
+      {
+        "start_time": "146.825419501",
+        "end_time": "155.116213151",
+        "section_label": "d",
+        "function_label": "guitar",
+        "full_label": "d, guitar"
+      },
+      {
+        "start_time": "155.116213151",
+        "end_time": "",
+        "section_label": "End",
+        "function_label": "",
+        "full_label": "End"
+      }
+    ]
+  },
+  "31": {
+    "salami_id": 31,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "0.162539682",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "0.162539682",
+        "end_time": "2.527641723",
+        "section_label": "D",
+        "function_label": "Intro, guitar",
+        "full_label": "D, e, Intro, guitar"
+      },
+      {
+        "start_time": "2.527641723",
+        "end_time": "7.414217687",
+        "section_label": "d",
+        "function_label": "guitar",
+        "full_label": "d, guitar"
+      },
+      {
+        "start_time": "7.414217687",
+        "end_time": "12.179659863",
+        "section_label": "A",
+        "function_label": "Verse, vocal",
+        "full_label": "A, a, Verse, vocal"
+      },
+      {
+        "start_time": "12.179659863",
+        "end_time": "19.296961451",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "19.296961451",
+        "end_time": "23.913492063",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "23.913492063",
+        "end_time": "28.304444444",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "28.304444444",
+        "end_time": "32.712585034",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "32.712585034",
+        "end_time": "36.976530612",
+        "section_label": "d",
+        "function_label": "",
+        "full_label": "d"
+      },
+      {
+        "start_time": "36.976530612",
+        "end_time": "41.432562358",
+        "section_label": "A",
+        "function_label": "Verse",
+        "full_label": "A, a, Verse"
+      },
+      {
+        "start_time": "41.432562358",
+        "end_time": "46.917981859",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "46.917981859",
+        "end_time": "51.248548752",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "51.248548752",
+        "end_time": "55.576780045",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "55.576780045",
+        "end_time": "59.552063492",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "59.552063492",
+        "end_time": "63.984263038",
+        "section_label": "d",
+        "function_label": "",
+        "full_label": "d"
+      },
+      {
+        "start_time": "63.984263038",
+        "end_time": "68.368027210",
+        "section_label": "A",
+        "function_label": "Verse",
+        "full_label": "A, a, Verse"
+      },
+      {
+        "start_time": "68.368027210",
+        "end_time": "71.711859410",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "71.711859410",
+        "end_time": "75.923560090",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "75.923560090",
+        "end_time": "80.119954648",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "80.119954648",
+        "end_time": "84.264943310",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "84.264943310",
+        "end_time": "88.384421768",
+        "section_label": "d",
+        "function_label": "",
+        "full_label": "d"
+      },
+      {
+        "start_time": "88.384421768",
+        "end_time": "92.591950113",
+        "section_label": "A",
+        "function_label": "Verse",
+        "full_label": "A, a, Verse"
+      },
+      {
+        "start_time": "92.591950113",
+        "end_time": "98.184376417",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "98.184376417",
+        "end_time": "102.044875283",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "102.044875283",
+        "end_time": "106.392471655",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "106.392471655",
+        "end_time": "110.568072562",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "110.568072562",
+        "end_time": "114.616122448",
+        "section_label": "d",
+        "function_label": "",
+        "full_label": "d"
+      },
+      {
+        "start_time": "114.616122448",
+        "end_time": "118.795555555",
+        "section_label": "A",
+        "function_label": "Verse",
+        "full_label": "A, a, Verse"
+      },
+      {
+        "start_time": "118.795555555",
+        "end_time": "124.848866213",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "124.848866213",
+        "end_time": "128.912086167",
+        "section_label": "a",
+        "function_label": "",
+        "full_label": "a"
+      },
+      {
+        "start_time": "128.912086167",
+        "end_time": "133.036281179",
+        "section_label": "b",
+        "function_label": "",
+        "full_label": "b"
+      },
+      {
+        "start_time": "133.036281179",
+        "end_time": "136.511791383",
+        "section_label": "c",
+        "function_label": "vocal",
+        "full_label": "c, vocal"
+      },
+      {
+        "start_time": "136.511791383",
+        "end_time": "140.020362811",
+        "section_label": "d'",
+        "function_label": "guitar",
+        "full_label": "d', Outro, guitar"
+      },
+      {
+        "start_time": "140.020362811",
+        "end_time": "143.367777777",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "143.367777777",
+        "end_time": "",
+        "section_label": "End",
+        "function_label": "",
+        "full_label": "End"
+      }
+    ]
+  },
+  "32": {
+    "salami_id": 32,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "0.020317460",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "0.020317460",
+        "end_time": "6.408707482",
+        "section_label": "B",
+        "function_label": "Intro, guitar",
+        "full_label": "B, e', Intro, guitar"
+      },
+      {
+        "start_time": "6.408707482",
+        "end_time": "12.061768707",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "12.061768707",
+        "end_time": "19.338616780",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "19.338616780",
+        "end_time": "24.897800453",
+        "section_label": "B",
+        "function_label": "Instrumental",
+        "full_label": "B, e, Instrumental"
+      },
+      {
+        "start_time": "24.897800453",
+        "end_time": "30.289410430",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "30.289410430",
+        "end_time": "37.181428571",
+        "section_label": "c",
+        "function_label": "guitar",
+        "full_label": "c, guitar"
+      },
+      {
+        "start_time": "37.181428571",
+        "end_time": "42.734240362",
+        "section_label": "B",
+        "function_label": "Verse, voice",
+        "full_label": "B, e, Verse, voice"
+      },
+      {
+        "start_time": "42.734240362",
+        "end_time": "48.155759637",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "48.155759637",
+        "end_time": "55.072970521",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "55.072970521",
+        "end_time": "60.547823129",
+        "section_label": "B",
+        "function_label": "Verse",
+        "full_label": "B, e, Verse"
+      },
+      {
+        "start_time": "60.547823129",
+        "end_time": "66.004058956",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "66.004058956",
+        "end_time": "71.556190476",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "71.556190476",
+        "end_time": "77.125306122",
+        "section_label": "B",
+        "function_label": "Verse",
+        "full_label": "B, e, Verse"
+      },
+      {
+        "start_time": "77.125306122",
+        "end_time": "82.420045351",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "82.420045351",
+        "end_time": "89.430204081",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "89.430204081",
+        "end_time": "94.605351473",
+        "section_label": "B",
+        "function_label": "Solo, guitar",
+        "full_label": "B, e, Solo, guitar"
+      },
+      {
+        "start_time": "94.605351473",
+        "end_time": "100.072562358",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "100.072562358",
+        "end_time": "106.750022675",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "106.750022675",
+        "end_time": "112.093242630",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "112.093242630",
+        "end_time": "117.373401360",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "117.373401360",
+        "end_time": "124.053333333",
+        "section_label": "c",
+        "function_label": "guitar",
+        "full_label": "c, guitar"
+      },
+      {
+        "start_time": "124.053333333",
+        "end_time": "129.391405895",
+        "section_label": "B",
+        "function_label": "Verse, voice",
+        "full_label": "B, e, Verse, voice"
+      },
+      {
+        "start_time": "129.391405895",
+        "end_time": "134.733083900",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "134.733083900",
+        "end_time": "141.430158730",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "141.430158730",
+        "end_time": "146.813038548",
+        "section_label": "B",
+        "function_label": "Verse",
+        "full_label": "B, e, Verse"
+      },
+      {
+        "start_time": "146.813038548",
+        "end_time": "152.029297052",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "152.029297052",
+        "end_time": "157.326281179",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "157.326281179",
+        "end_time": "162.560362811",
+        "section_label": "B",
+        "function_label": "Verse",
+        "full_label": "B, e, Verse"
+      },
+      {
+        "start_time": "162.560362811",
+        "end_time": "167.955124716",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "167.955124716",
+        "end_time": "174.483492063",
+        "section_label": "c",
+        "function_label": "voice",
+        "full_label": "c, voice"
+      },
+      {
+        "start_time": "174.483492063",
+        "end_time": "179.675328798",
+        "section_label": "B",
+        "function_label": "Outro, guitar",
+        "full_label": "B, e, Outro, guitar"
+      },
+      {
+        "start_time": "179.675328798",
+        "end_time": "184.788571428",
+        "section_label": "e",
+        "function_label": "",
+        "full_label": "e"
+      },
+      {
+        "start_time": "184.788571428",
+        "end_time": "197.439274376",
+        "section_label": "c",
+        "function_label": "guitar",
+        "full_label": "c, guitar"
+      },
+      {
+        "start_time": "197.439274376",
+        "end_time": "197.445056689",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "197.445056689",
+        "end_time": "",
+        "section_label": "End",
+        "function_label": "",
+        "full_label": "End"
+      }
+    ]
+  },
+  "37": {
+    "salami_id": 37,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "0.394739229",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "0.394739229",
+        "end_time": "21.919637188",
+        "section_label": "A",
+        "function_label": "Intro, guitar",
+        "full_label": "A, a, Intro, guitar"
+      },
+      {
+        "start_time": "21.919637188",
+        "end_time": "30.696780045",
+        "section_label": "B",
+        "function_label": "Verse, voice",
+        "full_label": "B, b, Verse, voice"
+      },
+      {
+        "start_time": "30.696780045",
+        "end_time": "38.661224489",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "38.661224489",
+        "end_time": "52.825396825",
+        "section_label": "d",
+        "function_label": "",
+        "full_label": "d"
+      },
+      {
+        "start_time": "52.825396825",
+        "end_time": "62.763537414",
+        "section_label": "B",
+        "function_label": "Verse",
+        "full_label": "B, b, Verse"
+      },
+      {
+        "start_time": "62.763537414",
+        "end_time": "78.529886621",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "78.529886621",
+        "end_time": "103.537777777",
+        "section_label": "d",
+        "function_label": "voice",
+        "full_label": "d, voice"
+      },
+      {
+        "start_time": "103.537777777",
+        "end_time": "125.666258503",
+        "section_label": "A",
+        "function_label": "Instrumental, Solo, guitar",
+        "full_label": "A, a, Instrumental, Solo, guitar"
+      },
+      {
+        "start_time": "125.666258503",
+        "end_time": "135.130702947",
+        "section_label": "C",
+        "function_label": "Bridge, voice",
+        "full_label": "C, b, Bridge, voice"
+      },
+      {
+        "start_time": "135.130702947",
+        "end_time": "148.933582766",
+        "section_label": "e",
+        "function_label": "voice",
+        "full_label": "e, voice"
+      },
+      {
+        "start_time": "148.933582766",
+        "end_time": "161.866303854",
+        "section_label": "g",
+        "function_label": "guitar",
+        "full_label": "g, guitar"
+      },
+      {
+        "start_time": "161.866303854",
+        "end_time": "171.074739229",
+        "section_label": "B",
+        "function_label": "Verse, voice",
+        "full_label": "B, b, Verse, voice"
+      },
+      {
+        "start_time": "171.074739229",
+        "end_time": "190.506281179",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "190.506281179",
+        "end_time": "199.770544217",
+        "section_label": "d",
+        "function_label": "",
+        "full_label": "d"
+      },
+      {
+        "start_time": "199.770544217",
+        "end_time": "217.153015873",
+        "section_label": "d",
+        "function_label": "voice",
+        "full_label": "d, voice"
+      },
+      {
+        "start_time": "217.153015873",
+        "end_time": "241.378730158",
+        "section_label": "A",
+        "function_label": "Instrumental, Solo, guitar",
+        "full_label": "A, a, Instrumental, Solo, guitar"
+      },
+      {
+        "start_time": "241.378730158",
+        "end_time": "251.239909297",
+        "section_label": "B'",
+        "function_label": "Verse, voice",
+        "full_label": "B', b, Verse, voice"
+      },
+      {
+        "start_time": "251.239909297",
+        "end_time": "261.526349206",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "261.526349206",
+        "end_time": "274.297324263",
+        "section_label": "d",
+        "function_label": "",
+        "full_label": "d"
+      },
+      {
+        "start_time": "274.297324263",
+        "end_time": "293.709206349",
+        "section_label": "e",
+        "function_label": "voice",
+        "full_label": "e, voice"
+      },
+      {
+        "start_time": "293.709206349",
+        "end_time": "324.986235827",
+        "section_label": "D",
+        "function_label": "Instrumental, Solo, guitar",
+        "full_label": "D, f, Instrumental, Solo, guitar"
+      },
+      {
+        "start_time": "324.986235827",
+        "end_time": "336.234376417",
+        "section_label": "B",
+        "function_label": "Verse, voice",
+        "full_label": "B, b, Verse, voice"
+      },
+      {
+        "start_time": "336.234376417",
+        "end_time": "343.850362811",
+        "section_label": "c",
+        "function_label": "",
+        "full_label": "c"
+      },
+      {
+        "start_time": "343.850362811",
+        "end_time": "354.797188208",
+        "section_label": "d",
+        "function_label": "voice",
+        "full_label": "d, voice"
+      },
+      {
+        "start_time": "354.797188208",
+        "end_time": "380.331632653",
+        "section_label": "A",
+        "function_label": "Outro, guitar",
+        "full_label": "A, a, Outro, guitar"
+      },
+      {
+        "start_time": "380.331632653",
+        "end_time": "383.007823129",
+        "section_label": "Silence",
+        "function_label": "",
+        "full_label": "Silence"
+      },
+      {
+        "start_time": "383.007823129",
         "end_time": "",
         "section_label": "End",
         "function_label": "",
