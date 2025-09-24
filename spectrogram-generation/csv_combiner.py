@@ -20,7 +20,7 @@ with open(validated_file, 'r', newline='') as f:
         validated_ids.add(row['SALAMI_ID'])
 
 # Convert to list and take only first 10 for now
-validated_ids = sorted([int(salami_id) for salami_id in validated_ids])[:10]
+validated_ids = sorted([int(salami_id) for salami_id in validated_ids])[:20]
 
 # Process each validated SALAMI_ID
 all_data = {}
