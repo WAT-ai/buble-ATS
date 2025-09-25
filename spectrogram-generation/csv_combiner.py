@@ -27,14 +27,6 @@ SECTION_NAMES = ["Silence", "Verse", "Chorus", "Bridge", "Intro", "Outro", "Solo
 
 def extract_section_label(function_label, full_label, section_label):
     """Extract the section name from the labels"""
-    # Check for silence first
-    if "Silence" in full_label or "silence" in full_label.lower():
-        return "Silence"
-    
-    # If section_label is "Silence", return it
-    if section_label == "Silence":
-        return "Silence"
-    
     # Look for section names in the function_label
     if function_label:
         for section in SECTION_NAMES:
@@ -48,7 +40,7 @@ def extract_section_label(function_label, full_label, section_label):
                 return section
     
     # If no section name found, return empty string
-    return ""
+    return "Empty"
 
 # Process each validated SALAMI_ID
 all_data = {}

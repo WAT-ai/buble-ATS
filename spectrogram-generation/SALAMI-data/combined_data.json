@@ -24,7 +24,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "16.181133786",
@@ -32,7 +32,7 @@
         "section_label": "A",
         "function_label": "c",
         "full_label": "A, guitar, c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "24.020839002",
@@ -40,7 +40,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "31.836666666",
@@ -48,7 +48,7 @@
         "section_label": "A",
         "function_label": "d",
         "full_label": "A, guitar, d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "39.724693877",
@@ -56,7 +56,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "47.292630385",
@@ -72,7 +72,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "63.060521541",
@@ -80,7 +80,7 @@
         "section_label": "B",
         "function_label": "f",
         "full_label": "B, f",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "70.888027210",
@@ -88,7 +88,7 @@
         "section_label": "f",
         "function_label": "",
         "full_label": "f",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "78.846371882",
@@ -96,7 +96,7 @@
         "section_label": "B",
         "function_label": "g",
         "full_label": "B, g",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "86.534308390",
@@ -104,7 +104,7 @@
         "section_label": "g",
         "function_label": "",
         "full_label": "g",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "94.173877551",
@@ -112,7 +112,7 @@
         "section_label": "B",
         "function_label": "h",
         "full_label": "B, h",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "101.966099773",
@@ -120,7 +120,7 @@
         "section_label": "h",
         "function_label": "",
         "full_label": "h",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "109.646802721",
@@ -136,7 +136,7 @@
         "section_label": "i",
         "function_label": "",
         "full_label": "i",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "117.382585034",
@@ -152,7 +152,7 @@
         "section_label": "j",
         "function_label": "",
         "full_label": "j",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "132.737981859",
@@ -160,7 +160,7 @@
         "section_label": "B",
         "function_label": "k",
         "full_label": "B, k",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "140.502108843",
@@ -168,7 +168,7 @@
         "section_label": "k",
         "function_label": "",
         "full_label": "k",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "148.150272108",
@@ -176,7 +176,7 @@
         "section_label": "B",
         "function_label": "l",
         "full_label": "B, l",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "155.790249433",
@@ -184,7 +184,7 @@
         "section_label": "l",
         "function_label": "",
         "full_label": "l",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "163.390385487",
@@ -192,7 +192,7 @@
         "section_label": "B",
         "function_label": "m",
         "full_label": "B, m",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "171.054467120",
@@ -200,7 +200,7 @@
         "section_label": "m",
         "function_label": "",
         "full_label": "m",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "178.686258503",
@@ -208,7 +208,7 @@
         "section_label": "B",
         "function_label": "n",
         "full_label": "B, n",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "186.302244897",
@@ -216,7 +216,7 @@
         "section_label": "n",
         "function_label": "",
         "full_label": "n",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "193.878435374",
@@ -232,7 +232,7 @@
         "section_label": "o",
         "function_label": "",
         "full_label": "o",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "201.417551020",
@@ -248,7 +248,7 @@
         "section_label": "p",
         "function_label": "",
         "full_label": "p",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "216.646507936",
@@ -256,7 +256,7 @@
         "section_label": "A",
         "function_label": "guitar, q",
         "full_label": "A, vocal, guitar, q",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "224.262108843",
@@ -264,7 +264,7 @@
         "section_label": "q",
         "function_label": "",
         "full_label": "q",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "231.790272108",
@@ -272,7 +272,7 @@
         "section_label": "A",
         "function_label": "r",
         "full_label": "A, guitar, r",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "239.246303854",
@@ -280,7 +280,7 @@
         "section_label": "r",
         "function_label": "",
         "full_label": "r",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "246.765963718",
@@ -288,7 +288,7 @@
         "section_label": "A",
         "function_label": "s",
         "full_label": "A, guitar, s",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "254.393990929",
@@ -296,7 +296,7 @@
         "section_label": "s",
         "function_label": "",
         "full_label": "s",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "261.942879818",
@@ -320,7 +320,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -357,7 +357,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "17.438843537",
@@ -373,7 +373,7 @@
         "section_label": "f",
         "function_label": "",
         "full_label": "f",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "28.871156462",
@@ -381,7 +381,7 @@
         "section_label": "g",
         "function_label": "",
         "full_label": "g",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "34.573446712",
@@ -405,7 +405,7 @@
         "section_label": "j",
         "function_label": "",
         "full_label": "j",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "51.710272108",
@@ -429,7 +429,7 @@
         "section_label": "m",
         "function_label": "",
         "full_label": "m",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "68.847165532",
@@ -453,7 +453,7 @@
         "section_label": "p",
         "function_label": "",
         "full_label": "p",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "86.005759637",
@@ -461,7 +461,7 @@
         "section_label": "q",
         "function_label": "",
         "full_label": "q",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "91.728140589",
@@ -469,7 +469,7 @@
         "section_label": "rap)",
         "function_label": "r",
         "full_label": "rap, r",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "97.438072562",
@@ -477,7 +477,7 @@
         "section_label": "C",
         "function_label": "Interlude, s",
         "full_label": "C, Instrumental, Interlude, s",
-        "section": "Interlude"
+        "section": "Empty"
       },
       {
         "start_time": "103.157823129",
@@ -485,7 +485,7 @@
         "section_label": "t",
         "function_label": "",
         "full_label": "t",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "108.891972789",
@@ -493,7 +493,7 @@
         "section_label": "u",
         "function_label": "",
         "full_label": "u",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "114.598004535",
@@ -501,7 +501,7 @@
         "section_label": "u",
         "function_label": "",
         "full_label": "u",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "120.325850340",
@@ -517,7 +517,7 @@
         "section_label": "w",
         "function_label": "",
         "full_label": "w",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "131.749251700",
@@ -541,7 +541,7 @@
         "section_label": "z",
         "function_label": "",
         "full_label": "z",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "148.866825396",
@@ -565,7 +565,7 @@
         "section_label": "ac",
         "function_label": "",
         "full_label": "ac",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "166.064693877",
@@ -573,7 +573,7 @@
         "section_label": "ad",
         "function_label": "",
         "full_label": "ad",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "171.732131519",
@@ -597,7 +597,7 @@
         "section_label": "ag",
         "function_label": "",
         "full_label": "ag",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "188.906712018",
@@ -621,7 +621,7 @@
         "section_label": "aj",
         "function_label": "",
         "full_label": "aj",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "206.050476190",
@@ -629,7 +629,7 @@
         "section_label": "ak",
         "function_label": "",
         "full_label": "ak",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "211.775510204",
@@ -637,7 +637,7 @@
         "section_label": "rap)",
         "function_label": "al",
         "full_label": "rap, al",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "217.422426303",
@@ -645,7 +645,7 @@
         "section_label": "B",
         "function_label": "am",
         "full_label": "B, Instrumental, am",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "223.186326530",
@@ -653,7 +653,7 @@
         "section_label": "am",
         "function_label": "",
         "full_label": "am",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "228.970793650",
@@ -661,7 +661,7 @@
         "section_label": "am",
         "function_label": "",
         "full_label": "am",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "234.682471655",
@@ -669,7 +669,7 @@
         "section_label": "an",
         "function_label": "",
         "full_label": "an",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "240.386394557",
@@ -677,7 +677,7 @@
         "section_label": "ao",
         "function_label": "",
         "full_label": "ao",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "246.075170068",
@@ -685,7 +685,7 @@
         "section_label": "ap",
         "function_label": "",
         "full_label": "ap",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "251.778684807",
@@ -709,7 +709,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -738,7 +738,7 @@
         "section_label": "b",
         "function_label": "guitar",
         "full_label": "b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "13.476122448",
@@ -754,7 +754,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "25.994784580",
@@ -762,7 +762,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "32.410907029",
@@ -770,7 +770,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "38.554512471",
@@ -786,7 +786,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "51.211156462",
@@ -794,7 +794,7 @@
         "section_label": "c",
         "function_label": "vocal",
         "full_label": "c, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "57.466848072",
@@ -802,7 +802,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "63.540158730",
@@ -818,7 +818,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "76.130748299",
@@ -826,7 +826,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "82.314512471",
@@ -834,7 +834,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "88.482517006",
@@ -850,7 +850,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "100.898752834",
@@ -858,7 +858,7 @@
         "section_label": "c",
         "function_label": "vocal",
         "full_label": "c, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "107.154535147",
@@ -866,7 +866,7 @@
         "section_label": "d",
         "function_label": "vocal",
         "full_label": "d, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "113.282857142",
@@ -882,7 +882,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "125.538730158",
@@ -890,7 +890,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "131.674739229",
@@ -898,7 +898,7 @@
         "section_label": "b",
         "function_label": "guitar",
         "full_label": "b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "137.762879818",
@@ -914,7 +914,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "150.050816326",
@@ -922,7 +922,7 @@
         "section_label": "c",
         "function_label": "vocal",
         "full_label": "c, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "156.170816326",
@@ -930,7 +930,7 @@
         "section_label": "d",
         "function_label": "vocal",
         "full_label": "d, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "162.298866213",
@@ -938,7 +938,7 @@
         "section_label": "e",
         "function_label": "Fade-out",
         "full_label": "e, Fade-out",
-        "section": "Fade"
+        "section": "Empty"
       },
       {
         "start_time": "168.043242630",
@@ -954,7 +954,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -983,7 +983,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "7.261655328",
@@ -999,7 +999,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "35.769909297",
@@ -1023,7 +1023,7 @@
         "section_label": "voice)",
         "function_label": "e",
         "full_label": "voice, e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "78.400272108",
@@ -1047,7 +1047,7 @@
         "section_label": "voice)",
         "function_label": "g",
         "full_label": "voice, g",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "121.018117913",
@@ -1079,7 +1079,7 @@
         "section_label": "j",
         "function_label": "",
         "full_label": "j",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "177.810816326",
@@ -1087,7 +1087,7 @@
         "section_label": "C'",
         "function_label": "k",
         "full_label": "C', voice, k",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "192.000907029",
@@ -1119,7 +1119,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -1148,7 +1148,7 @@
         "section_label": "a'",
         "function_label": "",
         "full_label": "a'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "26.809024943",
@@ -1156,7 +1156,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "39.978911564",
@@ -1164,7 +1164,7 @@
         "section_label": "b'",
         "function_label": "",
         "full_label": "b'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "53.162222222",
@@ -1180,7 +1180,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "79.588526077",
@@ -1188,7 +1188,7 @@
         "section_label": "d",
         "function_label": "voice",
         "full_label": "d, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "92.820453514",
@@ -1196,7 +1196,7 @@
         "section_label": "C",
         "function_label": "Interlude",
         "full_label": "C, b', Interlude",
-        "section": "Interlude"
+        "section": "Empty"
       },
       {
         "start_time": "106.015396825",
@@ -1204,7 +1204,7 @@
         "section_label": "b'",
         "function_label": "",
         "full_label": "b'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "119.207777777",
@@ -1220,7 +1220,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "145.625374149",
@@ -1228,7 +1228,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "158.831224489",
@@ -1236,7 +1236,7 @@
         "section_label": "e",
         "function_label": "voice",
         "full_label": "e, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "172.036009070",
@@ -1252,7 +1252,7 @@
         "section_label": "g",
         "function_label": "",
         "full_label": "g",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "198.422312925",
@@ -1260,7 +1260,7 @@
         "section_label": "b'",
         "function_label": "",
         "full_label": "b'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "211.613809523",
@@ -1268,7 +1268,7 @@
         "section_label": "b'",
         "function_label": "",
         "full_label": "b'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "224.810566893",
@@ -1284,7 +1284,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "251.203650793",
@@ -1292,7 +1292,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "264.395895691",
@@ -1300,7 +1300,7 @@
         "section_label": "e",
         "function_label": "voice",
         "full_label": "e, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "277.775170068",
@@ -1316,7 +1316,7 @@
         "section_label": "g",
         "function_label": "voice",
         "full_label": "g, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "314.269342403",
@@ -1324,7 +1324,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -1377,7 +1377,7 @@
         "section_label": "f",
         "function_label": "",
         "full_label": "f",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "52.047346938",
@@ -1409,7 +1409,7 @@
         "section_label": "j",
         "function_label": "",
         "full_label": "j",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "93.155102040",
@@ -1425,7 +1425,7 @@
         "section_label": "C",
         "function_label": "spoken, voice, l",
         "full_label": "C, break, spoken, voice, l",
-        "section": "Break"
+        "section": "Empty"
       },
       {
         "start_time": "113.759183673",
@@ -1433,7 +1433,7 @@
         "section_label": "(percussion)",
         "function_label": "m",
         "full_label": "percussion, m",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "124.085714285",
@@ -1441,7 +1441,7 @@
         "section_label": "(guitar)",
         "function_label": "n",
         "full_label": "guitar, n",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "134.485306122",
@@ -1449,7 +1449,7 @@
         "section_label": "N'",
         "function_label": "o",
         "full_label": "N', synth, o",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "144.697755102",
@@ -1457,7 +1457,7 @@
         "section_label": "(spoken",
         "function_label": "p",
         "full_label": "spoken, voice, p",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "154.836734693",
@@ -1481,7 +1481,7 @@
         "section_label": "s",
         "function_label": "",
         "full_label": "s",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "180.408163265",
@@ -1505,7 +1505,7 @@
         "section_label": "(synth",
         "function_label": "v",
         "full_label": "synth, v",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "210.983673469",
@@ -1513,7 +1513,7 @@
         "section_label": "synth)",
         "function_label": "v",
         "full_label": "synth, v",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "218.708752834",
@@ -1529,7 +1529,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -1558,7 +1558,7 @@
         "section_label": "piano)",
         "function_label": "c",
         "full_label": "piano, c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "22.527528344",
@@ -1574,7 +1574,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "46.039614512",
@@ -1598,7 +1598,7 @@
         "section_label": "f",
         "function_label": "",
         "full_label": "f",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "81.680612244",
@@ -1622,7 +1622,7 @@
         "section_label": "h",
         "function_label": "",
         "full_label": "h",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "117.427482993",
@@ -1638,7 +1638,7 @@
         "section_label": "voice)",
         "function_label": "i",
         "full_label": "voice, i",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "141.107369614",
@@ -1646,7 +1646,7 @@
         "section_label": "B",
         "function_label": "Instrumental, piano, j",
         "full_label": "B, Interlude, Instrumental, piano, j",
-        "section": "Interlude"
+        "section": "Empty"
       },
       {
         "start_time": "152.890294784",
@@ -1654,7 +1654,7 @@
         "section_label": "piano)",
         "function_label": "j",
         "full_label": "piano, j",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "164.787482993",
@@ -1686,7 +1686,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -1707,7 +1707,7 @@
         "section_label": "Z",
         "function_label": "z",
         "full_label": "Z, z",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "3.018594104",
@@ -1723,7 +1723,7 @@
         "section_label": "a",
         "function_label": "guitar",
         "full_label": "a, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "15.505124716",
@@ -1739,7 +1739,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "28.006167800",
@@ -1747,7 +1747,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "34.258140589",
@@ -1755,7 +1755,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "40.495600907",
@@ -1771,7 +1771,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "53.022766439",
@@ -1779,7 +1779,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "59.260226757",
@@ -1787,7 +1787,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "65.529614512",
@@ -1803,7 +1803,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "78.027755102",
@@ -1811,7 +1811,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "84.271020408",
@@ -1819,7 +1819,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "90.522993197",
@@ -1835,7 +1835,7 @@
         "section_label": "f",
         "function_label": "",
         "full_label": "f",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "103.026938775",
@@ -1843,7 +1843,7 @@
         "section_label": "f",
         "function_label": "",
         "full_label": "f",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "109.273106575",
@@ -1851,7 +1851,7 @@
         "section_label": "f",
         "function_label": "",
         "full_label": "f",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "115.545396825",
@@ -1867,7 +1867,7 @@
         "section_label": "g",
         "function_label": "",
         "full_label": "g",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "128.046439909",
@@ -1875,7 +1875,7 @@
         "section_label": "h",
         "function_label": "",
         "full_label": "h",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "140.524263038",
@@ -1891,7 +1891,7 @@
         "section_label": "i",
         "function_label": "",
         "full_label": "i",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "153.063038548",
@@ -1899,7 +1899,7 @@
         "section_label": "i",
         "function_label": "",
         "full_label": "i",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "159.271473922",
@@ -1907,7 +1907,7 @@
         "section_label": "j",
         "function_label": "vocal",
         "full_label": "j, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "165.027120181",
@@ -1923,7 +1923,7 @@
         "section_label": "k",
         "function_label": "",
         "full_label": "k",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "177.156643990",
@@ -1931,7 +1931,7 @@
         "section_label": "B",
         "function_label": "l",
         "full_label": "B, l",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "183.414421768",
@@ -1939,7 +1939,7 @@
         "section_label": "m",
         "function_label": "guitar",
         "full_label": "m, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "189.657687074",
@@ -1955,7 +1955,7 @@
         "section_label": "n",
         "function_label": "",
         "full_label": "n",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "202.161632653",
@@ -1963,7 +1963,7 @@
         "section_label": "n",
         "function_label": "",
         "full_label": "n",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "208.407800453",
@@ -1971,7 +1971,7 @@
         "section_label": "o",
         "function_label": "",
         "full_label": "o",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "214.680090702",
@@ -1987,7 +1987,7 @@
         "section_label": "p",
         "function_label": "",
         "full_label": "p",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "227.175328798",
@@ -1995,7 +1995,7 @@
         "section_label": "p",
         "function_label": "",
         "full_label": "p",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "233.412789115",
@@ -2003,7 +2003,7 @@
         "section_label": "q",
         "function_label": "vocal",
         "full_label": "q, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "239.677074829",
@@ -2019,7 +2019,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -2056,7 +2056,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "30.951020408",
@@ -2064,7 +2064,7 @@
         "section_label": "W",
         "function_label": "d",
         "full_label": "W, d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "43.203877551",
@@ -2072,7 +2072,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "55.525600907",
@@ -2104,7 +2104,7 @@
         "section_label": "g",
         "function_label": "",
         "full_label": "g",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "104.632834467",
@@ -2112,7 +2112,7 @@
         "section_label": "W",
         "function_label": "h",
         "full_label": "W, h",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "116.891587301",
@@ -2120,7 +2120,7 @@
         "section_label": "h",
         "function_label": "",
         "full_label": "h",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "129.179977324",
@@ -2144,7 +2144,7 @@
         "section_label": "j",
         "function_label": "",
         "full_label": "j",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "166.001043083",
@@ -2176,7 +2176,7 @@
         "section_label": "W",
         "function_label": "n",
         "full_label": "W, n",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "215.146938775",
@@ -2184,7 +2184,7 @@
         "section_label": "n",
         "function_label": "",
         "full_label": "n",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "227.409773242",
@@ -2208,7 +2208,7 @@
         "section_label": "p",
         "function_label": "",
         "full_label": "p",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "264.251836734",
@@ -2224,7 +2224,7 @@
         "section_label": "Fade-out",
         "function_label": "q",
         "full_label": "Fade-out, voice, q",
-        "section": "Fade"
+        "section": "Empty"
       },
       {
         "start_time": "293.657437641",
@@ -2240,7 +2240,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -2277,7 +2277,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "13.800430839",
@@ -2285,7 +2285,7 @@
         "section_label": "B",
         "function_label": "",
         "full_label": "B",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "19.261473922",
@@ -2293,7 +2293,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "24.540362811",
@@ -2301,7 +2301,7 @@
         "section_label": "C",
         "function_label": "",
         "full_label": "C",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "29.989546485",
@@ -2309,7 +2309,7 @@
         "section_label": "A",
         "function_label": "guitar",
         "full_label": "A, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "35.309070294",
@@ -2325,7 +2325,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "46.049727891",
@@ -2333,7 +2333,7 @@
         "section_label": "B",
         "function_label": "",
         "full_label": "B",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "51.465510204",
@@ -2341,7 +2341,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "56.729501133",
@@ -2349,7 +2349,7 @@
         "section_label": "C",
         "function_label": "",
         "full_label": "C",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "62.185442176",
@@ -2357,7 +2357,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "67.467278911",
@@ -2373,7 +2373,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "78.162244897",
@@ -2381,7 +2381,7 @@
         "section_label": "B",
         "function_label": "",
         "full_label": "B",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "83.497414965",
@@ -2389,7 +2389,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "88.828616780",
@@ -2397,7 +2397,7 @@
         "section_label": "C",
         "function_label": "",
         "full_label": "C",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "94.299092970",
@@ -2405,7 +2405,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "99.503628117",
@@ -2421,7 +2421,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "110.038956916",
@@ -2429,7 +2429,7 @@
         "section_label": "B",
         "function_label": "",
         "full_label": "B",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "115.410725623",
@@ -2437,7 +2437,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "120.697460317",
@@ -2445,7 +2445,7 @@
         "section_label": "C",
         "function_label": "",
         "full_label": "C",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "125.978253968",
@@ -2453,7 +2453,7 @@
         "section_label": "A",
         "function_label": "vocal",
         "full_label": "A, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "131.155283446",
@@ -2469,7 +2469,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "141.789523809",
@@ -2477,7 +2477,7 @@
         "section_label": "B",
         "function_label": "",
         "full_label": "B",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "147.045646258",
@@ -2485,7 +2485,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "152.325260770",
@@ -2493,7 +2493,7 @@
         "section_label": "C",
         "function_label": "",
         "full_label": "C",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "157.677256235",
@@ -2501,7 +2501,7 @@
         "section_label": "A",
         "function_label": "guitar",
         "full_label": "A, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "162.952630385",
@@ -2517,7 +2517,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "173.493537414",
@@ -2525,7 +2525,7 @@
         "section_label": "B",
         "function_label": "",
         "full_label": "B",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "178.805487528",
@@ -2533,7 +2533,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "184.014285714",
@@ -2541,7 +2541,7 @@
         "section_label": "C",
         "function_label": "",
         "full_label": "C",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "189.301451247",
@@ -2549,7 +2549,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "194.550544217",
@@ -2565,7 +2565,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "205.125442176",
@@ -2573,7 +2573,7 @@
         "section_label": "A",
         "function_label": "",
         "full_label": "A",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "210.385555555",
@@ -2581,7 +2581,7 @@
         "section_label": "A",
         "function_label": "vocal",
         "full_label": "A, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "215.117346938",
@@ -2597,7 +2597,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -2626,7 +2626,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "16.536507936",
@@ -2634,7 +2634,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "24.051768707",
@@ -2650,7 +2650,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "38.882108843",
@@ -2658,7 +2658,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "46.353990929",
@@ -2674,7 +2674,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "61.292312925",
@@ -2682,7 +2682,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "68.662222222",
@@ -2698,7 +2698,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "83.738095238",
@@ -2706,7 +2706,7 @@
         "section_label": "c",
         "function_label": "voice",
         "full_label": "c, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "91.053945578",
@@ -2722,7 +2722,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "106.061950113",
@@ -2730,7 +2730,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "113.622993197",
@@ -2746,7 +2746,7 @@
         "section_label": "b'",
         "function_label": "",
         "full_label": "b'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "128.313741496",
@@ -2754,7 +2754,7 @@
         "section_label": "c'",
         "function_label": "",
         "full_label": "c'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "135.584829931",
@@ -2770,7 +2770,7 @@
         "section_label": "b'",
         "function_label": "",
         "full_label": "b'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "150.430408163",
@@ -2778,7 +2778,7 @@
         "section_label": "c'",
         "function_label": "",
         "full_label": "c'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "157.872176870",
@@ -2794,7 +2794,7 @@
         "section_label": "b'",
         "function_label": "",
         "full_label": "b'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "172.669251700",
@@ -2802,7 +2802,7 @@
         "section_label": "c'",
         "function_label": "guitar",
         "full_label": "c', guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "179.980748299",
@@ -2818,7 +2818,7 @@
         "section_label": "b'",
         "function_label": "",
         "full_label": "b'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "194.622857142",
@@ -2826,7 +2826,7 @@
         "section_label": "c'",
         "function_label": "",
         "full_label": "c'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "201.660589569",
@@ -2842,7 +2842,7 @@
         "section_label": "b'",
         "function_label": "",
         "full_label": "b'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "216.163832199",
@@ -2850,7 +2850,7 @@
         "section_label": "c'",
         "function_label": "voice",
         "full_label": "c', voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "223.316439909",
@@ -2858,7 +2858,7 @@
         "section_label": "A",
         "function_label": "Interlude",
         "full_label": "A, a, Interlude",
-        "section": "Interlude"
+        "section": "Empty"
       },
       {
         "start_time": "230.388888888",
@@ -2866,7 +2866,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "237.583401360",
@@ -2874,7 +2874,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "244.901814058",
@@ -2890,7 +2890,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "259.682267573",
@@ -2898,7 +2898,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "266.912517006",
@@ -2914,7 +2914,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "281.574897959",
@@ -2922,7 +2922,7 @@
         "section_label": "c",
         "function_label": "voice",
         "full_label": "c, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "288.997369614",
@@ -2938,7 +2938,7 @@
         "section_label": "b'",
         "function_label": "",
         "full_label": "b'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "303.752630385",
@@ -2946,7 +2946,7 @@
         "section_label": "c'",
         "function_label": "",
         "full_label": "c'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "311.190430839",
@@ -2962,7 +2962,7 @@
         "section_label": "b'",
         "function_label": "",
         "full_label": "b'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "325.794421768",
@@ -2970,7 +2970,7 @@
         "section_label": "c'",
         "function_label": "guitar",
         "full_label": "c', guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "333.117596371",
@@ -2986,7 +2986,7 @@
         "section_label": "b'",
         "function_label": "",
         "full_label": "b'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "347.680861678",
@@ -2994,7 +2994,7 @@
         "section_label": "c'",
         "function_label": "voice",
         "full_label": "c', voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "351.940498866",
@@ -3010,7 +3010,7 @@
         "section_label": "Z",
         "function_label": "",
         "full_label": "Z",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "383.316666666",
@@ -3018,7 +3018,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -3047,7 +3047,7 @@
         "section_label": "c",
         "function_label": "guitar",
         "full_label": "c, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "7.907074829",
@@ -3055,7 +3055,7 @@
         "section_label": "d",
         "function_label": "guitar",
         "full_label": "d, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "14.538117913",
@@ -3071,7 +3071,7 @@
         "section_label": "b",
         "function_label": "guitar",
         "full_label": "b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "27.978027210",
@@ -3079,7 +3079,7 @@
         "section_label": "a",
         "function_label": "vocal",
         "full_label": "a, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "34.689977324",
@@ -3087,7 +3087,7 @@
         "section_label": "b",
         "function_label": "guitar",
         "full_label": "b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "41.426167800",
@@ -3095,7 +3095,7 @@
         "section_label": "c",
         "function_label": "vocal",
         "full_label": "c, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "48.146258503",
@@ -3103,7 +3103,7 @@
         "section_label": "d",
         "function_label": "guitar",
         "full_label": "d, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "54.844807256",
@@ -3119,7 +3119,7 @@
         "section_label": "b",
         "function_label": "guitar",
         "full_label": "b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "68.234036281",
@@ -3127,7 +3127,7 @@
         "section_label": "a",
         "function_label": "vocal",
         "full_label": "a, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "74.922086167",
@@ -3135,7 +3135,7 @@
         "section_label": "b",
         "function_label": "guitar",
         "full_label": "b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "81.570929705",
@@ -3143,7 +3143,7 @@
         "section_label": "c",
         "function_label": "vocal",
         "full_label": "c, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "88.342494331",
@@ -3151,7 +3151,7 @@
         "section_label": "d",
         "function_label": "guitar",
         "full_label": "d, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "94.874104308",
@@ -3167,7 +3167,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "108.170340136",
@@ -3175,7 +3175,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "114.847528344",
@@ -3183,7 +3183,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "121.354172335",
@@ -3191,7 +3191,7 @@
         "section_label": "f",
         "function_label": "vocal",
         "full_label": "f, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "127.906009070",
@@ -3199,7 +3199,7 @@
         "section_label": "g",
         "function_label": "guitar",
         "full_label": "g, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "134.490839002",
@@ -3207,7 +3207,7 @@
         "section_label": "c",
         "function_label": "vocal",
         "full_label": "c, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "141.143741496",
@@ -3215,7 +3215,7 @@
         "section_label": "d",
         "function_label": "guitar",
         "full_label": "d, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "147.554081632",
@@ -3231,7 +3231,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "160.826417233",
@@ -3239,7 +3239,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "167.490680272",
@@ -3247,7 +3247,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "173.978820861",
@@ -3255,7 +3255,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "180.578004535",
@@ -3263,7 +3263,7 @@
         "section_label": "d",
         "function_label": "guitar",
         "full_label": "d, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "187.121882086",
@@ -3279,7 +3279,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "200.321882086",
@@ -3287,7 +3287,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "206.833809523",
@@ -3295,7 +3295,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "213.362131519",
@@ -3303,7 +3303,7 @@
         "section_label": "f",
         "function_label": "vocal",
         "full_label": "f, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "219.929977324",
@@ -3311,7 +3311,7 @@
         "section_label": "g",
         "function_label": "guitar",
         "full_label": "g, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "226.545736961",
@@ -3319,7 +3319,7 @@
         "section_label": "c",
         "function_label": "vocal",
         "full_label": "c, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "233.098253968",
@@ -3327,7 +3327,7 @@
         "section_label": "d",
         "function_label": "guitar",
         "full_label": "d, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "239.513786848",
@@ -3343,7 +3343,7 @@
         "section_label": "b",
         "function_label": "guitar",
         "full_label": "b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "252.665804988",
@@ -3351,7 +3351,7 @@
         "section_label": "a",
         "function_label": "vocal",
         "full_label": "a, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "259.279365079",
@@ -3359,7 +3359,7 @@
         "section_label": "b",
         "function_label": "guitar",
         "full_label": "b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "265.786507936",
@@ -3367,7 +3367,7 @@
         "section_label": "c",
         "function_label": "vocal",
         "full_label": "c, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "272.400453514",
@@ -3375,7 +3375,7 @@
         "section_label": "d",
         "function_label": "guitar",
         "full_label": "d, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "279.057414965",
@@ -3399,7 +3399,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -3428,7 +3428,7 @@
         "section_label": "a",
         "function_label": "guitar",
         "full_label": "a, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "13.648843537",
@@ -3436,7 +3436,7 @@
         "section_label": "b",
         "function_label": "guitar",
         "full_label": "b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "20.131700680",
@@ -3452,7 +3452,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "33.208775510",
@@ -3460,7 +3460,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "39.688798185",
@@ -3468,7 +3468,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "46.233061224",
@@ -3492,7 +3492,7 @@
         "section_label": "b",
         "function_label": "guitar",
         "full_label": "b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "62.688775510",
@@ -3508,7 +3508,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "75.816848072",
@@ -3516,7 +3516,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "82.314739229",
@@ -3524,7 +3524,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "88.752811791",
@@ -3540,7 +3540,7 @@
         "section_label": "a",
         "function_label": "guitar",
         "full_label": "a, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "98.561156462",
@@ -3548,7 +3548,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "104.992539682",
@@ -3556,7 +3556,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "111.510045351",
@@ -3564,7 +3564,7 @@
         "section_label": "b",
         "function_label": "guitar",
         "full_label": "b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "117.911179138",
@@ -3580,7 +3580,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "130.985079365",
@@ -3588,7 +3588,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "137.516530612",
@@ -3596,7 +3596,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "144.097959183",
@@ -3620,7 +3620,7 @@
         "section_label": "a",
         "function_label": "vocal",
         "full_label": "a, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "160.426666666",
@@ -3628,7 +3628,7 @@
         "section_label": "a",
         "function_label": "guitar",
         "full_label": "a, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "166.732448979",
@@ -3636,7 +3636,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "173.124353741",
@@ -3644,7 +3644,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "179.513469387",
@@ -3652,7 +3652,7 @@
         "section_label": "a",
         "function_label": "guitar",
         "full_label": "a, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "193.066349206",
@@ -3668,7 +3668,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -3697,7 +3697,7 @@
         "section_label": "j",
         "function_label": "accordion",
         "full_label": "j, accordion",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "44.675192743",
@@ -3705,7 +3705,7 @@
         "section_label": "j",
         "function_label": "",
         "full_label": "j",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "54.868752834",
@@ -3713,7 +3713,7 @@
         "section_label": "A",
         "function_label": "Head",
         "full_label": "A, a, Head",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "65.034580498",
@@ -3721,7 +3721,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "75.303650793",
@@ -3729,7 +3729,7 @@
         "section_label": "A",
         "function_label": "Head",
         "full_label": "A, a, Head",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "85.560068027",
@@ -3737,7 +3737,7 @@
         "section_label": "b",
         "function_label": "accordion",
         "full_label": "b, accordion",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "95.598208616",
@@ -3753,7 +3753,7 @@
         "section_label": "b",
         "function_label": "guitar",
         "full_label": "b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "115.783650793",
@@ -3761,7 +3761,7 @@
         "section_label": "A",
         "function_label": "Head, organ",
         "full_label": "A, a, Head, organ",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "125.891383219",
@@ -3769,7 +3769,7 @@
         "section_label": "b",
         "function_label": "organ",
         "full_label": "b, organ",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "135.823854875",
@@ -3777,7 +3777,7 @@
         "section_label": "A",
         "function_label": "Head, guitar",
         "full_label": "A, a, Head, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "145.887777777",
@@ -3785,7 +3785,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "155.875578231",
@@ -3793,7 +3793,7 @@
         "section_label": "A",
         "function_label": "Coda",
         "full_label": "A, a, Coda",
-        "section": "Coda"
+        "section": "Empty"
       },
       {
         "start_time": "165.889795918",
@@ -3801,7 +3801,7 @@
         "section_label": "b",
         "function_label": "guitar",
         "full_label": "b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "175.881201814",
@@ -3809,7 +3809,7 @@
         "section_label": "a",
         "function_label": "accordion",
         "full_label": "a, accordion",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "186.365011337",
@@ -3817,7 +3817,7 @@
         "section_label": "b",
         "function_label": "accordion",
         "full_label": "b, Fade-out, accordion",
-        "section": "Fade"
+        "section": "Empty"
       },
       {
         "start_time": "200.035419501",
@@ -3833,7 +3833,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -3862,7 +3862,7 @@
         "section_label": "f",
         "function_label": "guitar",
         "full_label": "f, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "20.718752834",
@@ -3878,7 +3878,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "41.403673469",
@@ -3886,7 +3886,7 @@
         "section_label": "a",
         "function_label": "voice",
         "full_label": "a, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "52.151043083",
@@ -3894,7 +3894,7 @@
         "section_label": "e'",
         "function_label": "harmonica",
         "full_label": "e', harmonica",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "63.181111111",
@@ -3902,7 +3902,7 @@
         "section_label": "b",
         "function_label": "voice",
         "full_label": "b, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "74.317142857",
@@ -3910,7 +3910,7 @@
         "section_label": "f",
         "function_label": "harmonica",
         "full_label": "f, harmonica",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "85.535668934",
@@ -3926,7 +3926,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "108.557619047",
@@ -3934,7 +3934,7 @@
         "section_label": "a",
         "function_label": "voice",
         "full_label": "a, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "120.107301587",
@@ -3942,7 +3942,7 @@
         "section_label": "e'",
         "function_label": "harmonica",
         "full_label": "e', harmonica",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "131.747573696",
@@ -3950,7 +3950,7 @@
         "section_label": "b",
         "function_label": "voice",
         "full_label": "b, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "143.452494331",
@@ -3958,7 +3958,7 @@
         "section_label": "f",
         "function_label": "harmonica",
         "full_label": "f, harmonica",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "155.154217687",
@@ -3974,7 +3974,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "178.984013605",
@@ -3982,7 +3982,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "190.938662131",
@@ -3990,7 +3990,7 @@
         "section_label": "e'",
         "function_label": "",
         "full_label": "e'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "202.527913832",
@@ -3998,7 +3998,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "214.355918367",
@@ -4006,7 +4006,7 @@
         "section_label": "f",
         "function_label": "guitar",
         "full_label": "f, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "226.122403628",
@@ -4022,7 +4022,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "250.023333333",
@@ -4030,7 +4030,7 @@
         "section_label": "a",
         "function_label": "voice",
         "full_label": "a, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "262.178684807",
@@ -4038,7 +4038,7 @@
         "section_label": "e'",
         "function_label": "harmonica",
         "full_label": "e', harmonica",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "274.213265306",
@@ -4046,7 +4046,7 @@
         "section_label": "b",
         "function_label": "voice",
         "full_label": "b, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "286.193106575",
@@ -4054,7 +4054,7 @@
         "section_label": "f",
         "function_label": "harmonica",
         "full_label": "f, harmonica",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "301.905827664",
@@ -4062,7 +4062,7 @@
         "section_label": "Z",
         "function_label": "cheers and applause",
         "full_label": "Z, cheers and applause",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "311.482131519",
@@ -4078,7 +4078,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -4107,7 +4107,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "19.511111111",
@@ -4115,7 +4115,7 @@
         "section_label": "B",
         "function_label": "guitar",
         "full_label": "B, b, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "28.993628117",
@@ -4123,7 +4123,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "38.488866213",
@@ -4131,7 +4131,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "47.925056689",
@@ -4139,7 +4139,7 @@
         "section_label": "c'",
         "function_label": "",
         "full_label": "c'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "57.461678004",
@@ -4155,7 +4155,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "76.348458049",
@@ -4163,7 +4163,7 @@
         "section_label": "f",
         "function_label": "",
         "full_label": "f",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "85.835623582",
@@ -4171,7 +4171,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "95.141020408",
@@ -4179,7 +4179,7 @@
         "section_label": "D",
         "function_label": "g",
         "full_label": "D, g",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "104.466848072",
@@ -4187,7 +4187,7 @@
         "section_label": "g",
         "function_label": "",
         "full_label": "g",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "113.802970521",
@@ -4195,7 +4195,7 @@
         "section_label": "h",
         "function_label": "",
         "full_label": "h",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "123.155850340",
@@ -4203,7 +4203,7 @@
         "section_label": "h",
         "function_label": "",
         "full_label": "h",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "132.358253968",
@@ -4211,7 +4211,7 @@
         "section_label": "h",
         "function_label": "",
         "full_label": "h",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "141.607551020",
@@ -4219,7 +4219,7 @@
         "section_label": "i",
         "function_label": "",
         "full_label": "i",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "150.998820861",
@@ -4235,7 +4235,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "169.613424036",
@@ -4243,7 +4243,7 @@
         "section_label": "f",
         "function_label": "",
         "full_label": "f",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "178.798049886",
@@ -4251,7 +4251,7 @@
         "section_label": "e'",
         "function_label": "",
         "full_label": "e'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "188.051519274",
@@ -4259,7 +4259,7 @@
         "section_label": "E",
         "function_label": "Interlude",
         "full_label": "E, j, Interlude",
-        "section": "Interlude"
+        "section": "Empty"
       },
       {
         "start_time": "197.423718820",
@@ -4267,7 +4267,7 @@
         "section_label": "j",
         "function_label": "",
         "full_label": "j",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "206.762018140",
@@ -4275,7 +4275,7 @@
         "section_label": "j",
         "function_label": "",
         "full_label": "j",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "216.165011337",
@@ -4283,7 +4283,7 @@
         "section_label": "j",
         "function_label": "",
         "full_label": "j",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "225.509909297",
@@ -4291,7 +4291,7 @@
         "section_label": "j",
         "function_label": "",
         "full_label": "j",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "234.807959183",
@@ -4299,7 +4299,7 @@
         "section_label": "j",
         "function_label": "",
         "full_label": "j",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "244.210158730",
@@ -4307,7 +4307,7 @@
         "section_label": "j",
         "function_label": "guitar",
         "full_label": "j, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "253.508866213",
@@ -4323,7 +4323,7 @@
         "section_label": "a'",
         "function_label": "",
         "full_label": "a'",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "276.621882086",
@@ -4339,7 +4339,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -4368,7 +4368,7 @@
         "section_label": "c",
         "function_label": "bass",
         "full_label": "c, bass",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "11.029818594",
@@ -4376,7 +4376,7 @@
         "section_label": "d",
         "function_label": "guitar",
         "full_label": "d, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "16.694331065",
@@ -4392,7 +4392,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "26.221428571",
@@ -4400,7 +4400,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "31.397823129",
@@ -4408,7 +4408,7 @@
         "section_label": "d",
         "function_label": "vocal",
         "full_label": "d, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "34.019795918",
@@ -4416,7 +4416,7 @@
         "section_label": "d",
         "function_label": "guitar",
         "full_label": "d, Interlude, guitar",
-        "section": "Interlude"
+        "section": "Empty"
       },
       {
         "start_time": "39.061814058",
@@ -4432,7 +4432,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "48.112970521",
@@ -4440,7 +4440,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "53.117709750",
@@ -4448,7 +4448,7 @@
         "section_label": "d",
         "function_label": "vocal",
         "full_label": "d, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "58.358480725",
@@ -4456,7 +4456,7 @@
         "section_label": "A'",
         "function_label": "Interlude, guitar",
         "full_label": "A', c, Interlude, guitar",
-        "section": "Interlude"
+        "section": "Empty"
       },
       {
         "start_time": "63.128866213",
@@ -4464,7 +4464,7 @@
         "section_label": "c",
         "function_label": "bass",
         "full_label": "c, bass",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "68.121972789",
@@ -4472,7 +4472,7 @@
         "section_label": "d",
         "function_label": "guitar",
         "full_label": "d, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "73.772947845",
@@ -4488,7 +4488,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "82.334852607",
@@ -4496,7 +4496,7 @@
         "section_label": "d",
         "function_label": "vocal",
         "full_label": "d, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "87.372539682",
@@ -4504,7 +4504,7 @@
         "section_label": "A",
         "function_label": "Interlude, guitar",
         "full_label": "A, c, Interlude, guitar",
-        "section": "Interlude"
+        "section": "Empty"
       },
       {
         "start_time": "92.414716553",
@@ -4512,7 +4512,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "96.607006802",
@@ -4520,7 +4520,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "101.452358276",
@@ -4528,7 +4528,7 @@
         "section_label": "d",
         "function_label": "guitar",
         "full_label": "d, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "105.803333333",
@@ -4544,7 +4544,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "115.033356009",
@@ -4552,7 +4552,7 @@
         "section_label": "d",
         "function_label": "vocal",
         "full_label": "d, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "120.081473922",
@@ -4568,7 +4568,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "129.484625850",
@@ -4576,7 +4576,7 @@
         "section_label": "d",
         "function_label": "bass",
         "full_label": "d, bass",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "134.913537414",
@@ -4584,7 +4584,7 @@
         "section_label": "A'",
         "function_label": "guitar",
         "full_label": "A', c, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "142.171746031",
@@ -4592,7 +4592,7 @@
         "section_label": "c",
         "function_label": "bass",
         "full_label": "c, bass",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "146.825419501",
@@ -4600,7 +4600,7 @@
         "section_label": "d",
         "function_label": "guitar",
         "full_label": "d, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "155.116213151",
@@ -4608,7 +4608,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -4637,7 +4637,7 @@
         "section_label": "d",
         "function_label": "guitar",
         "full_label": "d, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "7.414217687",
@@ -4653,7 +4653,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "19.296961451",
@@ -4661,7 +4661,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "23.913492063",
@@ -4669,7 +4669,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "28.304444444",
@@ -4677,7 +4677,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "32.712585034",
@@ -4685,7 +4685,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "36.976530612",
@@ -4701,7 +4701,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "46.917981859",
@@ -4709,7 +4709,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "51.248548752",
@@ -4717,7 +4717,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "55.576780045",
@@ -4725,7 +4725,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "59.552063492",
@@ -4733,7 +4733,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "63.984263038",
@@ -4749,7 +4749,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "71.711859410",
@@ -4757,7 +4757,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "75.923560090",
@@ -4765,7 +4765,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "80.119954648",
@@ -4773,7 +4773,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "84.264943310",
@@ -4781,7 +4781,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "88.384421768",
@@ -4797,7 +4797,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "98.184376417",
@@ -4805,7 +4805,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "102.044875283",
@@ -4813,7 +4813,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "106.392471655",
@@ -4821,7 +4821,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "110.568072562",
@@ -4829,7 +4829,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "114.616122448",
@@ -4845,7 +4845,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "124.848866213",
@@ -4853,7 +4853,7 @@
         "section_label": "a",
         "function_label": "",
         "full_label": "a",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "128.912086167",
@@ -4861,7 +4861,7 @@
         "section_label": "b",
         "function_label": "",
         "full_label": "b",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "133.036281179",
@@ -4869,7 +4869,7 @@
         "section_label": "c",
         "function_label": "vocal",
         "full_label": "c, vocal",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "136.511791383",
@@ -4893,7 +4893,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -4922,7 +4922,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "12.061768707",
@@ -4930,7 +4930,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "19.338616780",
@@ -4938,7 +4938,7 @@
         "section_label": "B",
         "function_label": "Instrumental",
         "full_label": "B, e, Instrumental",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "24.897800453",
@@ -4946,7 +4946,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "30.289410430",
@@ -4954,7 +4954,7 @@
         "section_label": "c",
         "function_label": "guitar",
         "full_label": "c, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "37.181428571",
@@ -4970,7 +4970,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "48.155759637",
@@ -4978,7 +4978,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "55.072970521",
@@ -4994,7 +4994,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "66.004058956",
@@ -5002,7 +5002,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "71.556190476",
@@ -5018,7 +5018,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "82.420045351",
@@ -5026,7 +5026,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "89.430204081",
@@ -5042,7 +5042,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "100.072562358",
@@ -5050,7 +5050,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "106.750022675",
@@ -5058,7 +5058,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "112.093242630",
@@ -5066,7 +5066,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "117.373401360",
@@ -5074,7 +5074,7 @@
         "section_label": "c",
         "function_label": "guitar",
         "full_label": "c, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "124.053333333",
@@ -5090,7 +5090,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "134.733083900",
@@ -5098,7 +5098,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "141.430158730",
@@ -5114,7 +5114,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "152.029297052",
@@ -5122,7 +5122,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "157.326281179",
@@ -5138,7 +5138,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "167.955124716",
@@ -5146,7 +5146,7 @@
         "section_label": "c",
         "function_label": "voice",
         "full_label": "c, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "174.483492063",
@@ -5162,7 +5162,7 @@
         "section_label": "e",
         "function_label": "",
         "full_label": "e",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "184.788571428",
@@ -5170,7 +5170,7 @@
         "section_label": "c",
         "function_label": "guitar",
         "full_label": "c, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "197.439274376",
@@ -5186,7 +5186,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   },
@@ -5223,7 +5223,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "38.661224489",
@@ -5231,7 +5231,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "52.825396825",
@@ -5247,7 +5247,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "78.529886621",
@@ -5255,7 +5255,7 @@
         "section_label": "d",
         "function_label": "voice",
         "full_label": "d, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "103.537777777",
@@ -5279,7 +5279,7 @@
         "section_label": "e",
         "function_label": "voice",
         "full_label": "e, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "148.933582766",
@@ -5287,7 +5287,7 @@
         "section_label": "g",
         "function_label": "guitar",
         "full_label": "g, guitar",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "161.866303854",
@@ -5303,7 +5303,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "190.506281179",
@@ -5311,7 +5311,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "199.770544217",
@@ -5319,7 +5319,7 @@
         "section_label": "d",
         "function_label": "voice",
         "full_label": "d, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "217.153015873",
@@ -5343,7 +5343,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "261.526349206",
@@ -5351,7 +5351,7 @@
         "section_label": "d",
         "function_label": "",
         "full_label": "d",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "274.297324263",
@@ -5359,7 +5359,7 @@
         "section_label": "e",
         "function_label": "voice",
         "full_label": "e, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "293.709206349",
@@ -5383,7 +5383,7 @@
         "section_label": "c",
         "function_label": "",
         "full_label": "c",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "343.850362811",
@@ -5391,7 +5391,7 @@
         "section_label": "d",
         "function_label": "voice",
         "full_label": "d, voice",
-        "section": ""
+        "section": "Empty"
       },
       {
         "start_time": "354.797188208",
@@ -5415,7 +5415,7 @@
         "section_label": "End",
         "function_label": "",
         "full_label": "End",
-        "section": ""
+        "section": "Empty"
       }
     ]
   }
