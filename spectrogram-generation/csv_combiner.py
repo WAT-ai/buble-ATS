@@ -3,6 +3,8 @@ import json
 import os
 import requests
 
+# NOTE: IF WE NEED MORE THAN THE FIRST 20 SONGS, CHANGE THE NUMBER 20 IN THE "validated_ids" VARIABLE'S PARSING BELOW TO THE NUMBER DESIRED
+
 base_url = "https://raw.githubusercontent.com/DDMAL/salami-data-public/master/annotations/"
 
 # File paths
