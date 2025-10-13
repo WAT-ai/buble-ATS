@@ -44,6 +44,40 @@ def extract_section_label(function_label, full_label, section_label):
     # If no section name found, return empty string
     return "Empty"
 
+def propagate_uppercase_sections(annotations):
+    last_upper = None
+    last_section = None
+    
+    for ann in annotations:
+        sec_label = ann.get("section_label", "")
+        func_label = ann.get("function_label", "")
+        section_name = ann.get("section", "")
+        full_label = ann.get("full_label", "")
+        
+        # Update last uppercase section
+        if sec_label.isupper():
+            last_upper = sec_label
+        elif last_upper:
+            ann["section_label"] = last_upper
+        
+        # Fill missing section names
+        if not section_name or section_name == "Empty":
+            ann["section"] = last_section
+        else:
+            last_section = section_name
+        
+        # Propagate section if section_label was propagated but section is missing
+        if ann["section_label"] == last_upper and (not ann["section"] or ann["section"] == "Empty"):
+            ann["section"] = last_section
+        
+        # Update full_label if it starts with lowercase only
+        if func_label and func_label[0].islower():
+            if last_upper and not full_label.startswith(last_upper):
+                ann["full_label"] = f"{last_upper}, {full_label}"
+    
+    return annotations
+
+
 # Process each validated SALAMI_ID
 all_data = {}
 for salami_id in validated_ids:
@@ -123,10 +157,11 @@ for salami_id in validated_ids:
                 }
                 annotations.append(annotation)
         
-        # Add to combined data dictionary with salami_id as key
+        # Add to combined data dictionary with salami_id as key (edited annotations version)
+        filled_annotations = propagate_uppercase_sections(annotations)
         all_data[salami_id] = {
             "salami_id": salami_id,
-            "annotations": annotations
+            "annotations": filled_annotations
         }
         
         print(f"Processed annotations for SALAMI_ID {salami_id}")
