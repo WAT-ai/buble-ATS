@@ -1,0 +1,2402 @@
+{
+  "song_3": {
+    "salami_id": 3,
+    "annotations": [
+      {
+        "start_time": "0.384000000",
+        "end_time": "4.288000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "6.592000000",
+        "end_time": "12.608000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "13.056000000",
+        "end_time": "17.280000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "17.664000000",
+        "end_time": "25.152000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "27.136000000",
+        "end_time": "32.960000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "35.840000000",
+        "end_time": "38.272000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "46.976000000",
+        "end_time": "49.216000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "54.912000000",
+        "end_time": "57.344000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "57.344000000",
+        "end_time": "60.160000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "74.304000000",
+        "end_time": "78.336000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "85.056000000",
+        "end_time": "87.744000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "90.048000000",
+        "end_time": "95.360000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "99.520000000",
+        "end_time": "102.400000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "108.032000000",
+        "end_time": "110.848000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "111.360000000",
+        "end_time": "113.728000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "114.112000000",
+        "end_time": "116.864000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "130.368000000",
+        "end_time": "132.416000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "142.464000000",
+        "end_time": "150.400000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "159.360000000",
+        "end_time": "161.536000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "169.664000000",
+        "end_time": "172.480000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "191.680000000",
+        "end_time": "195.072000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "201.472000000",
+        "end_time": "203.776000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "207.872000000",
+        "end_time": "210.432000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "234.048000000",
+        "end_time": "236.736000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "238.528000000",
+        "end_time": "241.088000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "246.272000000",
+        "end_time": "249.600000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "252.160000000",
+        "end_time": "254.336000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "257.088000000",
+        "end_time": "263.296000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "269.760000000",
+        "end_time": "275.072000000",
+        "section": "Outro"
+      }
+    ]
+  },
+  "song_5": {
+    "salami_id": 5,
+    "annotations": [
+      {
+        "start_time": "6.656000000",
+        "end_time": "29.760000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "30.016000000",
+        "end_time": "34.816000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "39.360000000",
+        "end_time": "42.816000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "42.816000000",
+        "end_time": "44.928000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "48.960000000",
+        "end_time": "51.648000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "53.056000000",
+        "end_time": "58.816000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "62.528000000",
+        "end_time": "69.568000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "72.896000000",
+        "end_time": "75.136000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "81.984000000",
+        "end_time": "84.096000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "84.672000000",
+        "end_time": "86.976000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "90.368000000",
+        "end_time": "101.248000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "101.440000000",
+        "end_time": "106.944000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "109.056000000",
+        "end_time": "112.704000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "112.960000000",
+        "end_time": "117.312000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "117.504000000",
+        "end_time": "120.640000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "126.528000000",
+        "end_time": "132.288000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "142.336000000",
+        "end_time": "152.768000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "156.800000000",
+        "end_time": "159.168000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "187.712000000",
+        "end_time": "192.192000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "200.704000000",
+        "end_time": "203.456000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "221.952000000",
+        "end_time": "224.256000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "245.440000000",
+        "end_time": "247.488000000",
+        "section": "Chorus"
+      }
+    ]
+  },
+  "song_6": {
+    "salami_id": 6,
+    "annotations": [
+      {
+        "start_time": "0.192000000",
+        "end_time": "4.160000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "6.272000000",
+        "end_time": "16.704000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "17.024000000",
+        "end_time": "26.112000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "35.200000000",
+        "end_time": "37.248000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "42.880000000",
+        "end_time": "44.992000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "52.160000000",
+        "end_time": "54.336000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "54.656000000",
+        "end_time": "61.056000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "64.512000000",
+        "end_time": "69.952000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "70.336000000",
+        "end_time": "72.832000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "73.344000000",
+        "end_time": "76.480000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "83.456000000",
+        "end_time": "86.976000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "89.024000000",
+        "end_time": "102.592000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "104.448000000",
+        "end_time": "120.128000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "120.512000000",
+        "end_time": "123.072000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "126.464000000",
+        "end_time": "132.288000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "134.912000000",
+        "end_time": "140.928000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "141.184000000",
+        "end_time": "156.736000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "157.184000000",
+        "end_time": "161.536000000",
+        "section": "Chorus"
+      }
+    ]
+  },
+  "song_7": {
+    "salami_id": 7,
+    "annotations": [
+      {
+        "start_time": "6.720000000",
+        "end_time": "29.760000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "30.080000000",
+        "end_time": "37.248000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "39.680000000",
+        "end_time": "42.112000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "47.808000000",
+        "end_time": "51.008000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "57.024000000",
+        "end_time": "59.520000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "62.080000000",
+        "end_time": "67.008000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "69.632000000",
+        "end_time": "72.320000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "73.664000000",
+        "end_time": "77.824000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "78.656000000",
+        "end_time": "81.792000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "81.984000000",
+        "end_time": "88.768000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "89.920000000",
+        "end_time": "95.488000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "96.000000000",
+        "end_time": "102.528000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "104.448000000",
+        "end_time": "107.456000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "109.504000000",
+        "end_time": "111.744000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "111.936000000",
+        "end_time": "116.736000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "117.056000000",
+        "end_time": "124.480000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "124.864000000",
+        "end_time": "156.736000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "157.248000000",
+        "end_time": "160.768000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "166.400000000",
+        "end_time": "169.216000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "169.728000000",
+        "end_time": "173.056000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "173.632000000",
+        "end_time": "176.064000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "178.176000000",
+        "end_time": "183.488000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "187.712000000",
+        "end_time": "193.024000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "214.656000000",
+        "end_time": "216.704000000",
+        "section": "Outro"
+      }
+    ]
+  },
+  "song_10": {
+    "salami_id": 10,
+    "annotations": [
+      {
+        "start_time": "0.448000000",
+        "end_time": "25.408000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "26.880000000",
+        "end_time": "30.912000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "32.000000000",
+        "end_time": "35.968000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "39.104000000",
+        "end_time": "42.176000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "46.720000000",
+        "end_time": "49.280000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "55.872000000",
+        "end_time": "59.648000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "64.512000000",
+        "end_time": "67.136000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "74.816000000",
+        "end_time": "78.592000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "81.664000000",
+        "end_time": "83.776000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "84.160000000",
+        "end_time": "87.040000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "89.280000000",
+        "end_time": "95.488000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "101.312000000",
+        "end_time": "103.488000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "104.448000000",
+        "end_time": "107.776000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "111.104000000",
+        "end_time": "114.880000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "118.144000000",
+        "end_time": "120.832000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "121.280000000",
+        "end_time": "124.544000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "125.696000000",
+        "end_time": "131.456000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "134.784000000",
+        "end_time": "137.408000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "137.728000000",
+        "end_time": "140.800000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "145.024000000",
+        "end_time": "154.944000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "157.824000000",
+        "end_time": "160.000000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "165.824000000",
+        "end_time": "168.000000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "170.944000000",
+        "end_time": "173.184000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "179.200000000",
+        "end_time": "181.632000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "190.784000000",
+        "end_time": "192.832000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "307.200000000",
+        "end_time": "315.072000000",
+        "section": "Outro"
+      }
+    ]
+  },
+  "song_11": {
+    "salami_id": 11,
+    "annotations": [
+      {
+        "start_time": "0.384000000",
+        "end_time": "14.976000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "15.616000000",
+        "end_time": "20.672000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "20.928000000",
+        "end_time": "26.944000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "27.200000000",
+        "end_time": "29.760000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "30.080000000",
+        "end_time": "32.576000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "33.152000000",
+        "end_time": "36.160000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "39.680000000",
+        "end_time": "42.176000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "53.184000000",
+        "end_time": "56.256000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "56.512000000",
+        "end_time": "59.776000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "63.552000000",
+        "end_time": "68.160000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "70.464000000",
+        "end_time": "73.344000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "74.304000000",
+        "end_time": "77.824000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "83.648000000",
+        "end_time": "86.080000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "86.400000000",
+        "end_time": "88.448000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "89.984000000",
+        "end_time": "104.704000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "109.440000000",
+        "end_time": "111.616000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "112.512000000",
+        "end_time": "120.320000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "120.640000000",
+        "end_time": "122.752000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "127.104000000",
+        "end_time": "129.472000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "129.792000000",
+        "end_time": "131.968000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "136.448000000",
+        "end_time": "138.496000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "143.808000000",
+        "end_time": "156.160000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "157.184000000",
+        "end_time": "166.336000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "177.792000000",
+        "end_time": "193.280000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "199.424000000",
+        "end_time": "201.600000000",
+        "section": "Chorus"
+      }
+    ]
+  },
+  "song_13": {
+    "salami_id": 13,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "24.256000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "26.624000000",
+        "end_time": "34.624000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "39.232000000",
+        "end_time": "42.048000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "52.992000000",
+        "end_time": "59.648000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "63.744000000",
+        "end_time": "66.048000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "70.208000000",
+        "end_time": "73.344000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "73.792000000",
+        "end_time": "75.840000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "81.792000000",
+        "end_time": "86.848000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "88.064000000",
+        "end_time": "94.848000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "95.744000000",
+        "end_time": "98.880000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "99.712000000",
+        "end_time": "102.336000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "114.816000000",
+        "end_time": "121.664000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "128.128000000",
+        "end_time": "131.968000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "132.544000000",
+        "end_time": "138.496000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "139.392000000",
+        "end_time": "144.704000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "145.088000000",
+        "end_time": "155.840000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "157.312000000",
+        "end_time": "161.472000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "161.728000000",
+        "end_time": "168.576000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "170.624000000",
+        "end_time": "174.720000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "178.240000000",
+        "end_time": "180.992000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "189.440000000",
+        "end_time": "192.960000000",
+        "section": "Chorus"
+      }
+    ]
+  },
+  "song_14": {
+    "salami_id": 14,
+    "annotations": [
+      {
+        "start_time": "3.392000000",
+        "end_time": "35.584000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "39.808000000",
+        "end_time": "42.176000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "52.160000000",
+        "end_time": "57.024000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "57.344000000",
+        "end_time": "59.712000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "62.336000000",
+        "end_time": "69.248000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "70.080000000",
+        "end_time": "73.408000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "75.968000000",
+        "end_time": "78.080000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "80.448000000",
+        "end_time": "87.040000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "87.488000000",
+        "end_time": "89.536000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "89.920000000",
+        "end_time": "95.424000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "95.872000000",
+        "end_time": "107.008000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "110.592000000",
+        "end_time": "119.936000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "120.832000000",
+        "end_time": "124.416000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "125.632000000",
+        "end_time": "132.288000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "134.336000000",
+        "end_time": "154.304000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "157.504000000",
+        "end_time": "160.000000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "161.728000000",
+        "end_time": "164.096000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "189.504000000",
+        "end_time": "193.024000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "200.256000000",
+        "end_time": "204.736000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "207.936000000",
+        "end_time": "210.048000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "249.152000000",
+        "end_time": "251.904000000",
+        "section": "Silence"
+      }
+    ]
+  },
+  "song_16": {
+    "salami_id": 16,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "2.368000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "6.976000000",
+        "end_time": "26.176000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "32.192000000",
+        "end_time": "35.008000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "36.992000000",
+        "end_time": "39.104000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "51.968000000",
+        "end_time": "54.656000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "54.848000000",
+        "end_time": "57.024000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "57.024000000",
+        "end_time": "59.648000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "60.928000000",
+        "end_time": "63.744000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "75.712000000",
+        "end_time": "78.976000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "89.344000000",
+        "end_time": "95.488000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "106.880000000",
+        "end_time": "109.696000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "110.656000000",
+        "end_time": "117.184000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "137.216000000",
+        "end_time": "140.288000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "141.120000000",
+        "end_time": "154.112000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "154.368000000",
+        "end_time": "173.376000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "177.856000000",
+        "end_time": "191.360000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "207.744000000",
+        "end_time": "210.432000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "238.720000000",
+        "end_time": "255.680000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "255.872000000",
+        "end_time": "277.184000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "290.176000000",
+        "end_time": "299.072000000",
+        "section": "Outro"
+      }
+    ]
+  },
+  "song_19": {
+    "salami_id": 19,
+    "annotations": [
+      {
+        "start_time": "1.664000000",
+        "end_time": "25.408000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "27.200000000",
+        "end_time": "30.848000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "31.872000000",
+        "end_time": "34.816000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "37.504000000",
+        "end_time": "39.872000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "39.872000000",
+        "end_time": "42.624000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "48.768000000",
+        "end_time": "51.136000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "57.152000000",
+        "end_time": "59.648000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "62.976000000",
+        "end_time": "68.032000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "70.272000000",
+        "end_time": "72.448000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "73.664000000",
+        "end_time": "75.840000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "78.784000000",
+        "end_time": "95.488000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "95.872000000",
+        "end_time": "99.008000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "99.712000000",
+        "end_time": "109.312000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "109.504000000",
+        "end_time": "124.032000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "125.952000000",
+        "end_time": "132.416000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "132.864000000",
+        "end_time": "141.376000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "143.552000000",
+        "end_time": "153.536000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "153.792000000",
+        "end_time": "156.224000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "157.184000000",
+        "end_time": "159.424000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "161.856000000",
+        "end_time": "169.152000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "169.344000000",
+        "end_time": "172.352000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "174.272000000",
+        "end_time": "176.768000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "177.472000000",
+        "end_time": "181.440000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "183.680000000",
+        "end_time": "187.136000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "188.864000000",
+        "end_time": "196.032000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "200.640000000",
+        "end_time": "206.848000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "207.552000000",
+        "end_time": "211.776000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "213.312000000",
+        "end_time": "215.744000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "216.960000000",
+        "end_time": "219.328000000",
+        "section": "Outro"
+      }
+    ]
+  },
+  "song_21": {
+    "salami_id": 21,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "27.072000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "27.392000000",
+        "end_time": "36.032000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "38.784000000",
+        "end_time": "42.240000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "42.240000000",
+        "end_time": "44.288000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "51.904000000",
+        "end_time": "54.208000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "70.336000000",
+        "end_time": "73.536000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "83.712000000",
+        "end_time": "85.760000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "86.656000000",
+        "end_time": "88.704000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "90.560000000",
+        "end_time": "95.616000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "95.872000000",
+        "end_time": "98.112000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "98.368000000",
+        "end_time": "104.768000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "105.088000000",
+        "end_time": "107.520000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "107.968000000",
+        "end_time": "118.976000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "120.640000000",
+        "end_time": "123.456000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "126.080000000",
+        "end_time": "130.048000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "135.424000000",
+        "end_time": "144.704000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "145.024000000",
+        "end_time": "151.488000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "152.256000000",
+        "end_time": "155.584000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "157.056000000",
+        "end_time": "160.256000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "193.280000000",
+        "end_time": "195.392000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "207.488000000",
+        "end_time": "211.584000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "370.176000000",
+        "end_time": "373.248000000",
+        "section": "Outro"
+      },
+      {
+        "start_time": "376.832000000",
+        "end_time": "379.648000000",
+        "section": "Outro"
+      }
+    ]
+  },
+  "song_22": {
+    "salami_id": 22,
+    "annotations": [
+      {
+        "start_time": "1.152000000",
+        "end_time": "4.160000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "6.592000000",
+        "end_time": "17.088000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "17.472000000",
+        "end_time": "30.912000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "31.680000000",
+        "end_time": "35.584000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "43.520000000",
+        "end_time": "46.080000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "54.848000000",
+        "end_time": "57.024000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "63.360000000",
+        "end_time": "66.432000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "83.648000000",
+        "end_time": "86.272000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "89.984000000",
+        "end_time": "95.360000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "95.680000000",
+        "end_time": "98.880000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "101.568000000",
+        "end_time": "104.640000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "114.048000000",
+        "end_time": "116.096000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "117.440000000",
+        "end_time": "120.192000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "122.432000000",
+        "end_time": "124.736000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "125.632000000",
+        "end_time": "129.408000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "129.664000000",
+        "end_time": "131.968000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "135.296000000",
+        "end_time": "140.864000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "141.760000000",
+        "end_time": "144.768000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "145.088000000",
+        "end_time": "153.408000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "153.728000000",
+        "end_time": "156.416000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "165.248000000",
+        "end_time": "167.872000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "170.880000000",
+        "end_time": "173.504000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "237.888000000",
+        "end_time": "241.024000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "243.776000000",
+        "end_time": "246.272000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "257.664000000",
+        "end_time": "259.776000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "271.104000000",
+        "end_time": "273.280000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "281.600000000",
+        "end_time": "284.544000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "290.816000000",
+        "end_time": "292.928000000",
+        "section": "Outro"
+      }
+    ]
+  },
+  "song_23": {
+    "salami_id": 23,
+    "annotations": [
+      {
+        "start_time": "6.720000000",
+        "end_time": "23.872000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "24.064000000",
+        "end_time": "26.944000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "33.152000000",
+        "end_time": "36.096000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "53.760000000",
+        "end_time": "56.960000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "57.280000000",
+        "end_time": "59.456000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "61.312000000",
+        "end_time": "63.424000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "63.936000000",
+        "end_time": "68.288000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "70.208000000",
+        "end_time": "72.320000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "73.664000000",
+        "end_time": "78.208000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "81.792000000",
+        "end_time": "86.272000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "86.592000000",
+        "end_time": "89.408000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "89.856000000",
+        "end_time": "108.224000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "108.416000000",
+        "end_time": "115.456000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "115.712000000",
+        "end_time": "121.024000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "121.536000000",
+        "end_time": "123.648000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "125.696000000",
+        "end_time": "132.352000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "134.528000000",
+        "end_time": "138.432000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "138.752000000",
+        "end_time": "140.800000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "140.992000000",
+        "end_time": "146.752000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "147.008000000",
+        "end_time": "155.520000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "157.248000000",
+        "end_time": "161.408000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "164.352000000",
+        "end_time": "166.848000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "168.960000000",
+        "end_time": "171.584000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "178.240000000",
+        "end_time": "182.080000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "185.408000000",
+        "end_time": "193.792000000",
+        "section": "Outro"
+      }
+    ]
+  },
+  "song_24": {
+    "salami_id": 24,
+    "annotations": [
+      {
+        "start_time": "1.792000000",
+        "end_time": "4.480000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "4.736000000",
+        "end_time": "12.544000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "13.696000000",
+        "end_time": "37.952000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "38.912000000",
+        "end_time": "42.752000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "56.320000000",
+        "end_time": "59.584000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "62.784000000",
+        "end_time": "64.832000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "70.464000000",
+        "end_time": "73.216000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "73.600000000",
+        "end_time": "77.952000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "81.984000000",
+        "end_time": "87.168000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "87.488000000",
+        "end_time": "89.600000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "89.920000000",
+        "end_time": "124.352000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "124.800000000",
+        "end_time": "155.328000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "160.256000000",
+        "end_time": "168.384000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "179.904000000",
+        "end_time": "182.080000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "188.352000000",
+        "end_time": "190.976000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "191.232000000",
+        "end_time": "195.328000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "195.712000000",
+        "end_time": "200.512000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "200.704000000",
+        "end_time": "202.880000000",
+        "section": "Silence"
+      }
+    ]
+  },
+  "song_26": {
+    "salami_id": 26,
+    "annotations": [
+      {
+        "start_time": "0.000000000",
+        "end_time": "4.416000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "5.568000000",
+        "end_time": "20.608000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "20.864000000",
+        "end_time": "26.240000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "26.624000000",
+        "end_time": "28.800000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "39.744000000",
+        "end_time": "42.304000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "42.880000000",
+        "end_time": "45.120000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "63.168000000",
+        "end_time": "67.136000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "68.544000000",
+        "end_time": "72.512000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "75.648000000",
+        "end_time": "78.528000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "95.936000000",
+        "end_time": "99.072000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "100.800000000",
+        "end_time": "102.848000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "112.192000000",
+        "end_time": "116.352000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "145.088000000",
+        "end_time": "151.616000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "155.072000000",
+        "end_time": "161.920000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "170.240000000",
+        "end_time": "173.248000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "178.880000000",
+        "end_time": "182.208000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "188.480000000",
+        "end_time": "192.768000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "193.728000000",
+        "end_time": "197.120000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "197.696000000",
+        "end_time": "201.984000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "207.616000000",
+        "end_time": "210.752000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "212.160000000",
+        "end_time": "215.232000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "215.552000000",
+        "end_time": "217.792000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "218.176000000",
+        "end_time": "221.248000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "221.504000000",
+        "end_time": "231.424000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "297.664000000",
+        "end_time": "300.736000000",
+        "section": "Chorus"
+      }
+    ]
+  },
+  "song_27": {
+    "salami_id": 27,
+    "annotations": [
+      {
+        "start_time": "0.768000000",
+        "end_time": "5.120000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "5.696000000",
+        "end_time": "16.128000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "16.896000000",
+        "end_time": "32.832000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "33.216000000",
+        "end_time": "37.760000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "54.592000000",
+        "end_time": "60.032000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "60.544000000",
+        "end_time": "62.976000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "63.424000000",
+        "end_time": "69.120000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "69.376000000",
+        "end_time": "72.384000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "73.600000000",
+        "end_time": "78.144000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "82.112000000",
+        "end_time": "88.768000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "89.152000000",
+        "end_time": "123.392000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "126.336000000",
+        "end_time": "132.416000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "133.120000000",
+        "end_time": "141.888000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "142.272000000",
+        "end_time": "156.352000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "157.312000000",
+        "end_time": "169.408000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "170.624000000",
+        "end_time": "177.088000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "188.928000000",
+        "end_time": "191.360000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "250.176000000",
+        "end_time": "253.056000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "257.600000000",
+        "end_time": "261.120000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "261.376000000",
+        "end_time": "265.920000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "268.352000000",
+        "end_time": "273.088000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "273.600000000",
+        "end_time": "278.656000000",
+        "section": "Silence"
+      }
+    ]
+  },
+  "song_30": {
+    "salami_id": 30,
+    "annotations": [
+      {
+        "start_time": "0.640000000",
+        "end_time": "6.144000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "6.400000000",
+        "end_time": "16.320000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "17.792000000",
+        "end_time": "20.736000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "21.120000000",
+        "end_time": "25.728000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "25.728000000",
+        "end_time": "28.096000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "28.096000000",
+        "end_time": "30.912000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "41.344000000",
+        "end_time": "43.520000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "45.248000000",
+        "end_time": "47.296000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "55.296000000",
+        "end_time": "59.776000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "64.320000000",
+        "end_time": "67.456000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "70.208000000",
+        "end_time": "72.768000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "77.376000000",
+        "end_time": "79.744000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "84.736000000",
+        "end_time": "88.896000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "89.984000000",
+        "end_time": "93.632000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "94.144000000",
+        "end_time": "98.816000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "99.520000000",
+        "end_time": "105.536000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "109.056000000",
+        "end_time": "111.808000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "114.432000000",
+        "end_time": "116.800000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "117.440000000",
+        "end_time": "119.488000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "126.528000000",
+        "end_time": "131.840000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "143.744000000",
+        "end_time": "150.592000000",
+        "section": "Chorus"
+      }
+    ]
+  },
+  "song_31": {
+    "salami_id": 31,
+    "annotations": [
+      {
+        "start_time": "2.048000000",
+        "end_time": "6.528000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "7.040000000",
+        "end_time": "9.472000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "9.856000000",
+        "end_time": "18.368000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "18.944000000",
+        "end_time": "21.312000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "22.400000000",
+        "end_time": "26.752000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "27.840000000",
+        "end_time": "29.888000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "31.936000000",
+        "end_time": "36.224000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "50.944000000",
+        "end_time": "53.248000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "53.248000000",
+        "end_time": "56.832000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "57.344000000",
+        "end_time": "59.648000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "61.056000000",
+        "end_time": "63.104000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "69.760000000",
+        "end_time": "75.840000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "76.032000000",
+        "end_time": "78.272000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "81.856000000",
+        "end_time": "86.336000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "91.904000000",
+        "end_time": "95.488000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "96.000000000",
+        "end_time": "103.296000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "103.616000000",
+        "end_time": "107.520000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "112.512000000",
+        "end_time": "114.816000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "115.008000000",
+        "end_time": "117.120000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "117.568000000",
+        "end_time": "121.216000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "127.232000000",
+        "end_time": "132.608000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "134.912000000",
+        "end_time": "140.288000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "140.288000000",
+        "end_time": "143.616000000",
+        "section": "Intro"
+      }
+    ]
+  },
+  "song_32": {
+    "salami_id": 32,
+    "annotations": [
+      {
+        "start_time": "2.432000000",
+        "end_time": "6.208000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "6.912000000",
+        "end_time": "15.104000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "15.552000000",
+        "end_time": "25.280000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "27.840000000",
+        "end_time": "30.016000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "32.576000000",
+        "end_time": "34.816000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "37.120000000",
+        "end_time": "39.488000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "64.832000000",
+        "end_time": "67.520000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "69.824000000",
+        "end_time": "72.640000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "73.984000000",
+        "end_time": "76.032000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "89.920000000",
+        "end_time": "93.120000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "96.640000000",
+        "end_time": "101.184000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "114.112000000",
+        "end_time": "116.672000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "117.696000000",
+        "end_time": "119.872000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "126.528000000",
+        "end_time": "134.592000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "138.880000000",
+        "end_time": "140.928000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "143.680000000",
+        "end_time": "146.048000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "146.304000000",
+        "end_time": "150.144000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "150.464000000",
+        "end_time": "153.152000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "195.712000000",
+        "end_time": "199.360000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "200.704000000",
+        "end_time": "204.032000000",
+        "section": "Verse"
+      }
+    ]
+  },
+  "song_37": {
+    "salami_id": 37,
+    "annotations": [
+      {
+        "start_time": "2.176000000",
+        "end_time": "6.208000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "6.400000000",
+        "end_time": "24.448000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "32.064000000",
+        "end_time": "35.456000000",
+        "section": "Intro"
+      },
+      {
+        "start_time": "53.056000000",
+        "end_time": "55.808000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "57.088000000",
+        "end_time": "59.264000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "69.952000000",
+        "end_time": "73.216000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "73.536000000",
+        "end_time": "75.840000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "77.184000000",
+        "end_time": "79.552000000",
+        "section": "Verse"
+      },
+      {
+        "start_time": "89.600000000",
+        "end_time": "94.720000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "96.704000000",
+        "end_time": "98.944000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "102.272000000",
+        "end_time": "104.704000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "109.632000000",
+        "end_time": "111.808000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "126.272000000",
+        "end_time": "128.960000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "145.088000000",
+        "end_time": "152.896000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "208.256000000",
+        "end_time": "212.800000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "214.336000000",
+        "end_time": "216.768000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "257.344000000",
+        "end_time": "260.096000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "280.256000000",
+        "end_time": "282.624000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "349.696000000",
+        "end_time": "351.744000000",
+        "section": "Chorus"
+      },
+      {
+        "start_time": "376.896000000",
+        "end_time": "379.648000000",
+        "section": "Outro"
+      }
+    ]
+  }
+}
