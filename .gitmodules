@@ -1,0 +1,3 @@
+[submodule "open-source-models/songformer"]
+	path = open-source-models/songformer
+	url = https://github.com/ASLP-lab/SongFormer.git
